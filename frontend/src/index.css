@@ -1,0 +1,40 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  margin: 0;
+  padding: 0;
+  background-image: url("./assets/background.jpg");
+  background-size: cover;
+  background-position: center;
+  backdrop-filter: blur(3px);
+  color: aliceblue;
+  min-height: 100vh;
+}
+
+.text-wrapper {
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 4;
+  overflow: hidden;
+}
+
+.text {
+  /* Additional styles for the text */
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+.text-wrapper.expanded {
+  -webkit-line-clamp: unset;
+}
+
+.show-more-button {
+  background-color: transparent;
+  border: none;
+  color: blue;
+  cursor: pointer;
+}
+
+

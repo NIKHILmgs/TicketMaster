@@ -1,0 +1,2442 @@
+{
+  "_embedded": {
+    "events": [
+      {
+        "name": "P!NK: TRUSTFALL TOUR",
+        "type": "event",
+        "id": "G5diZ90DKws-b",
+        "test": false,
+        "url": "https://www.ticketmaster.com/pnk-trustfall-tour-new-york-new-york-11-04-2023/event/3B005E4ED3CB1858",
+        "locale": "en-us",
+        "images": [
+          {
+            "ratio": "3_2",
+            "url": "https://s1.ticketm.net/dam/a/4c8/cee4224d-ed9f-4267-81a4-61be2a1f44c8_ARTIST_PAGE_3_2.jpg",
+            "width": 305,
+            "height": 203,
+            "fallback": false
+          },
+          {
+            "ratio": "16_9",
+            "url": "https://s1.ticketm.net/dam/a/4c8/cee4224d-ed9f-4267-81a4-61be2a1f44c8_RECOMENDATION_16_9.jpg",
+            "width": 100,
+            "height": 56,
+            "fallback": false
+          },
+          {
+            "ratio": "16_9",
+            "url": "https://s1.ticketm.net/dam/a/4c8/cee4224d-ed9f-4267-81a4-61be2a1f44c8_SOURCE",
+            "width": 2426,
+            "height": 1365,
+            "fallback": false
+          },
+          {
+            "ratio": "16_9",
+            "url": "https://s1.ticketm.net/dam/a/4c8/cee4224d-ed9f-4267-81a4-61be2a1f44c8_EVENT_DETAIL_PAGE_16_9.jpg",
+            "width": 205,
+            "height": 115,
+            "fallback": false
+          },
+          {
+            "ratio": "16_9",
+            "url": "https://s1.ticketm.net/dam/a/4c8/cee4224d-ed9f-4267-81a4-61be2a1f44c8_TABLET_LANDSCAPE_16_9.jpg",
+            "width": 1024,
+            "height": 576,
+            "fallback": false
+          },
+          {
+            "ratio": "3_2",
+            "url": "https://s1.ticketm.net/dam/a/4c8/cee4224d-ed9f-4267-81a4-61be2a1f44c8_RETINA_PORTRAIT_3_2.jpg",
+            "width": 640,
+            "height": 427,
+            "fallback": false
+          },
+          {
+            "ratio": "4_3",
+            "url": "https://s1.ticketm.net/dam/a/4c8/cee4224d-ed9f-4267-81a4-61be2a1f44c8_CUSTOM.jpg",
+            "width": 305,
+            "height": 225,
+            "fallback": false
+          },
+          {
+            "ratio": "16_9",
+            "url": "https://s1.ticketm.net/dam/a/4c8/cee4224d-ed9f-4267-81a4-61be2a1f44c8_RETINA_PORTRAIT_16_9.jpg",
+            "width": 640,
+            "height": 360,
+            "fallback": false
+          },
+          {
+            "ratio": "16_9",
+            "url": "https://s1.ticketm.net/dam/a/4c8/cee4224d-ed9f-4267-81a4-61be2a1f44c8_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+            "width": 2048,
+            "height": 1152,
+            "fallback": false
+          },
+          {
+            "ratio": "3_2",
+            "url": "https://s1.ticketm.net/dam/a/4c8/cee4224d-ed9f-4267-81a4-61be2a1f44c8_TABLET_LANDSCAPE_3_2.jpg",
+            "width": 1024,
+            "height": 683,
+            "fallback": false
+          },
+          {
+            "ratio": "16_9",
+            "url": "https://s1.ticketm.net/dam/a/4c8/cee4224d-ed9f-4267-81a4-61be2a1f44c8_RETINA_LANDSCAPE_16_9.jpg",
+            "width": 1136,
+            "height": 639,
+            "fallback": false
+          }
+        ],
+        "distance": 2.66,
+        "units": "MILES",
+        "sales": {
+          "public": {
+            "startDateTime": "2023-02-24T15:00:00Z",
+            "startTBD": false,
+            "startTBA": false,
+            "endDateTime": "2023-11-04T23:30:00Z"
+          },
+          "presales": [
+            {
+              "startDateTime": "2023-02-21T15:00:00Z",
+              "endDateTime": "2023-02-24T03:00:00Z",
+              "name": "Citi\u00ae Cardmember Presale"
+            },
+            {
+              "startDateTime": "2023-02-21T15:00:00Z",
+              "endDateTime": "2023-02-24T03:00:00Z",
+              "name": "Verizon Up Presale Tickets"
+            },
+            {
+              "startDateTime": "2023-02-23T15:00:00Z",
+              "endDateTime": "2023-02-24T03:00:00Z",
+              "name": "Live Nation Presale"
+            },
+            {
+              "startDateTime": "2023-02-23T15:00:00Z",
+              "endDateTime": "2023-02-24T03:00:00Z",
+              "name": "MSG Presale"
+            },
+            {
+              "startDateTime": "2023-02-24T15:00:00Z",
+              "endDateTime": "2023-11-04T23:30:00Z",
+              "name": "Chase Cardmember Preferred Seating"
+            },
+            {
+              "startDateTime": "2023-02-24T15:00:00Z",
+              "endDateTime": "2023-10-07T23:30:00Z",
+              "name": "Citi\u00ae Cardmember Preferred Tickets"
+            },
+            {
+              "startDateTime": "2023-02-24T15:00:00Z",
+              "endDateTime": "2023-10-08T02:00:00Z",
+              "name": "Verizon Up Select Seats"
+            },
+            {
+              "startDateTime": "2023-02-21T15:00:00Z",
+              "endDateTime": "2023-02-24T03:00:00Z",
+              "name": "Aisle Seating Presale"
+            },
+            {
+              "startDateTime": "2023-02-24T15:00:00Z",
+              "endDateTime": "2023-11-04T23:30:00Z",
+              "name": "Aisle Seating"
+            },
+            {
+              "startDateTime": "2023-02-21T15:00:00Z",
+              "endDateTime": "2023-02-24T03:00:00Z",
+              "name": "VIP Packages Presale"
+            },
+            {
+              "startDateTime": "2023-02-24T15:00:00Z",
+              "endDateTime": "2023-10-29T02:00:00Z",
+              "name": "VIP Package Onsale"
+            },
+            {
+              "startDateTime": "2023-02-21T15:00:00Z",
+              "endDateTime": "2023-02-24T14:45:00Z",
+              "name": "Official Platinum Presale"
+            },
+            {
+              "startDateTime": "2023-02-24T15:00:00Z",
+              "endDateTime": "2023-11-04T23:30:00Z",
+              "name": "Official Platinum"
+            }
+          ]
+        },
+        "dates": {
+          "start": {
+            "localDate": "2023-11-04",
+            "localTime": "19:30:00",
+            "dateTime": "2023-11-04T23:30:00Z",
+            "dateTBD": false,
+            "dateTBA": false,
+            "timeTBA": false,
+            "noSpecificTime": false
+          },
+          "timezone": "America/New_York",
+          "status": {
+            "code": "onsale"
+          },
+          "spanMultipleDays": false
+        },
+        "classifications": [
+          {
+            "primary": true,
+            "segment": {
+              "id": "KZFzniwnSyZfZ7v7nJ",
+              "name": "Music"
+            },
+            "genre": {
+              "id": "KnvZfZ7vAeA",
+              "name": "Rock"
+            },
+            "subGenre": {
+              "id": "KZazBEonSMnZfZ7v6F1",
+              "name": "Pop"
+            },
+            "type": {
+              "id": "KZAyXgnZfZ7v7nI",
+              "name": "Undefined"
+            },
+            "subType": {
+              "id": "KZFzBErXgnZfZ7v7lJ",
+              "name": "Undefined"
+            },
+            "family": false
+          }
+        ],
+        "promoter": {
+          "id": "494",
+          "name": "PROMOTED BY VENUE",
+          "description": "PROMOTED BY VENUE / NTL / USA"
+        },
+        "promoters": [
+          {
+            "id": "494",
+            "name": "PROMOTED BY VENUE",
+            "description": "PROMOTED BY VENUE / NTL / USA"
+          }
+        ],
+        "info": "In the best interest of fans and staff, the Event Organizer will continue to monitor local COVID-19 trends and meet or exceed protocols mandated by local governments. By purchasing tickets to this event, you agree to abide by the health and safety measures in effect at the time of the event, which may include, but not be limited to, wearing masks, providing proof of vaccination status and/or providing proof of negative COVID-19 test. Government mandates, venue protocols, and event requirements are subject to change. For more information, please search your event on msg.com.",
+        "pleaseNote": "In the best interest of fans and staff, the Event Organizer will continue to monitor local COVID-19 trends and meet or exceed protocols mandated by local governments. By purchasing tickets to this event, you agree to abide by the health and safety measures in effect at the time of the event, which may include, but not be limited to, wearing masks, providing proof of vaccination status and/or providing proof of negative COVID-19 test. Government mandates, venue protocols, and event requirements are subject to change. For more information, please search your event on msg.com. Tickets are not available at the box office on the first day of the public on sale. ARRIVE EARLY: Please arrive one-hour prior to showtime. All packages, including briefcases and pocketbooks, will be inspected prior to entry.",
+        "priceRanges": [
+          {
+            "type": "standard",
+            "currency": "USD",
+            "min": 59.95,
+            "max": 419.95
+          }
+        ],
+        "seatmap": {
+          "staticUrl": "https://maps.ticketmaster.com/maps/geometry/3/event/3B005E4ED3CB1858/staticImage?type=png&systemId=HOST"
+        },
+        "accessibility": {
+          "ticketLimit": 2
+        },
+        "ticketLimit": {
+          "info": "There is an overall (8) eight ticket limit for this event."
+        },
+        "ageRestrictions": {
+          "legalAgeEnforced": false
+        },
+        "ticketing": {
+          "safeTix": {
+            "enabled": true
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "/discovery/v2/events/G5diZ90DKws-b?locale=en-us"
+          },
+          "attractions": [
+            {
+              "href": "/discovery/v2/attractions/K8vZ9171Jo7?locale=en-us"
+            },
+            {
+              "href": "/discovery/v2/attractions/K8vZ917ufxV?locale=en-us"
+            }
+          ],
+          "venues": [
+            {
+              "href": "/discovery/v2/venues/KovZpZA7AAEA?locale=en-us"
+            }
+          ]
+        },
+        "_embedded": {
+          "venues": [
+            {
+              "name": "Madison Square Garden",
+              "type": "venue",
+              "id": "KovZpZA7AAEA",
+              "test": false,
+              "url": "https://www.ticketmaster.com/madison-square-garden-tickets-new-york/venue/483329",
+              "locale": "en-us",
+              "aliases": ["msg", "madison square garden"],
+              "images": [
+                {
+                  "ratio": "16_9",
+                  "url": "https://s1.ticketm.net/dbimages/15646v.jpg",
+                  "width": 205,
+                  "height": 115,
+                  "fallback": false
+                }
+              ],
+              "distance": 2.66,
+              "units": "MILES",
+              "postalCode": "10001",
+              "timezone": "America/New_York",
+              "city": {
+                "name": "New York"
+              },
+              "state": {
+                "name": "New York",
+                "stateCode": "NY"
+              },
+              "country": {
+                "name": "United States Of America",
+                "countryCode": "US"
+              },
+              "address": {
+                "line1": "7th Ave & 32nd Street"
+              },
+              "location": {
+                "longitude": "-73.9916006",
+                "latitude": "40.7497062"
+              },
+              "markets": [
+                {
+                  "name": "New York/Tri-State Area",
+                  "id": "35"
+                },
+                {
+                  "name": "All of US",
+                  "id": "51"
+                },
+                {
+                  "name": "Northern New Jersey",
+                  "id": "55"
+                },
+                {
+                  "name": "Connecticut",
+                  "id": "124"
+                }
+              ],
+              "dmas": [
+                {
+                  "id": 200
+                },
+                {
+                  "id": 296
+                },
+                {
+                  "id": 345
+                },
+                {
+                  "id": 422
+                }
+              ],
+              "social": {
+                "twitter": {
+                  "handle": "@TheGarden"
+                }
+              },
+              "boxOfficeInfo": {
+                "phoneNumberDetail": "General Info: (212) 465-MSG1 (6741) or (212) 247-4777 Knicks Information: 1(877) NYK-DUNK. Rangers Fan Line: (212) 465-4459. Liberty Hotline: (212) 564-WNBA (9622). Season Subscriptions: (212) 465-6073. Disabled Services: (212) 465-6034 Guest Relations: (212) 465 - 6225 Group Sales: (212) 465-6100 Lost and Found: (212) 465-6299",
+                "openHoursDetail": "Monday - Saturday: 10:00am to 6:00pm **Tickets are not on-sale at the Box Office on the first day an event goes on-sale** The Box Office will be open at 10:00am daily or 90 minutes before the 1st performance of the day, whichever is earlier and will stay open until 8:00pm or 30 minutes after the last performance of the day begins, whichever is later. Sunday \u2013 Closed If an event takes place on Sunday, Box Office will open 90 minutes before the event start time and remain open 1 hour after event start time for Will Call and tickets sales for the evening's event only.",
+                "acceptedPaymentDetail": "Cash, American Express, Visa, MasterCard, Discover. ATM machines are located in Chase Square.",
+                "willCallDetail": "Pick-up tickets anytime the day of the show during box office hours (see above). Customers must present the actual credit card used to place the order and a picture ID. MSG cannot accept third party or \u201cdrop offs\u201d from individual patrons."
+              },
+              "parkingDetail": "Prepaid advance parking is available for select events through Ticketmaster or via a link on www.thegarden.com. Madison Square Garden does not own or operate any parking facility.",
+              "accessibleSeatingDetail": "MSG WHEELCHAIR AND TRANSFER SEATING POLICY: Wheelchair and Transfer seating is reserved exclusively for patrons with accessible needs and their companions. Accessible seating is intended for use by an individual with a mobility disability or other disability who requires the accessible features of accessible seating due to a disability, and that individual's companions. Madison Square Garden (MSG) reserves the right to investigate potential misuse of accessible seating and to take all appropriate action against individuals who fraudulently obtain tickets for accessible seating. While tickets for accessible seating legitimately purchased for the use of an individual with disability may be transferred to another individual under the same terms and conditions applicable to other tickets, in the event such ticket is transferred to a non-disabled individual, MSG reserves the right to transfer that individual to other available seating TO ORDER WHEELCHAIR AND TRANSFER SEATING: Tickets for people with accessible needs, subject to availability, may be purchased in several ways: 1) Call Ticketmaster at 866-858-0008 2) Call MSG's Disabled Services Department at (212)465-6115. 3) Visit Madison Square Garden's Box Office (see box office hours above) 4) Order Online with Ticketmaster (select your event from the list to the left) For additional information regarding accessibility at Madison Square Garden or to request any other accommodations, please call MSG's Disabled Services Department at (212) 465-6115 any weekday between 9:30am-4:30pm ET. Service Animals Pets are not permitted at Madison Square Garden. MSG has very specific policies related to service and emotional support animals. Please visit www.thegarden.com to obtain more information for admitting your animal. Assistive listening devices (ALDAs) are available upon request. Please visit the Guest Experience Office across from section 117 for assistance. There is no charge for this service, however some form of identification will be requested and returned to you, once the device is checked back in. Wheelchair Storage: For patrons who wish to transfer to a seat from their wheelchair, we will store your mobility device at the Guest Experience Office. You will receive a claim check for your device. Wheelchair Escorts to Seats: Patrons with mobility impairments who do not have access to a wheelchair may request a wheelchair to transport the individual to/from their seat, free of charge. Please be aware that our personnel cannot remain with you during the event, nor will they allow you to remain in or keep the wheelchair for the duration of the event. In the event a patron requires the use of a wheelchair for the duration of the event, we recommend bringing your own wheelchair or other mobility device. The escort pick-up area is located on the South (toward 31st) side of Chase Square at elevator alcove. Please allow for extra so that you may be accommodated prior to the event start. Simply ask a Guest Experience Representative or a MSG Security Guard for assistance. Elevators: Public elevators are available for use by guests with disabilities and service every seating level",
+              "generalInfo": {
+                "generalRule": "ARRIVE EARLY: Please arrive at least one-hour prior to event time. All patrons will go through a screening process upon entry with all packages, including briefcases and pocketbooks, being inspected prior to entry. Additionally, metal detectors may be utilized for some events. Bags that have passed inspection must fit comfortably under your seat.Please be mindful of traffic conditions, as Midtown Manhattan can be quite congested, especially during the holidays, parades, or special events. No smoking or electronic cigarettes permitted anywhere in the building No reentry. No recording devices No outside food or drink There are no bag or coat check facilities Alcohol Management: For most events at MSG, alcoholic beverages are available for purchase. MSG staff is trained in the nationally recognized T.E.A.M. (Techniques for Effective Alcohol Management) training program for responsible alcohol management. All guests will be required to show ID to purchase alcohol. Guests are not permitted to bring in alcoholic beverages from outside and may not leave with alcohol purchased inside the venue. Management reserves the right to refuse the sale of alcohol to any guest. Please be aware that it is the policy of The Madison Square Garden Company to require all guests who appear to be forty (40) years of age or younger to present a valid form of ID with proof of age in order to purchase alcoholic beverages at Madison Square Garden, Radio City Music Hall, The Beacon Theatre or The Chicago Theatre. Pursuant to applicable State law, MSG accepts only the following forms of identification: \u2022 A valid driver\u2019s license or non-driver identification card issued by the United States Government, a State Government, Commonwealth, Possession or Territory of the United States or a Provincial Government of Canada. \u2022 A valid passport \u2022 A valid U.S. military ID International guests wishing to consume alcohol inside the building must bring a valid passport as the only form of acceptable ID.",
+                "childRule": "For most events, all children who have reached their second birthday require a ticket to gain admittance to Madison Square Garden. Any child who has yet to reach their second birthday does not require a ticket, however, they may not occupy their own seat. Please note, that for certain children's events (such as the Wiggles and Sesame Street Live!), all children who have reached their first birthday require a ticket. Please check the event profile for your specific event for more information prior to your purchase of tickets."
+              },
+              "upcomingEvents": {
+                "_total": 132,
+                "ticketmaster": 132,
+                "_filtered": 0
+              },
+              "ada": {
+                "adaPhones": "Inquiries or requests concerning accessibility should be directed to the Accessible Services Department for Madison Square Garden at 888-609-7599.",
+                "adaCustomCopy": "Individuals with disabilities may purchase up to three seats for companions in the wheelchair or other accessible seating areas, provided such seats are available.  Additional tickets, if available, may be purchased as close to the accessible seating areas, as long as it does not exceed the ticket limit for the event.  Please note, for events or specific seating sections where ticket sales are limited to fewer than four tickets per patron, the same ticket restrictions will apply to the purchase of accessible seating.\n\nAccessible seating is intended for use by an individual with a mobility disability or other disability who requires the accessible features of accessible seating due to a disability, and that individual's companions.  Madison Square Garden reserves the right to investigate potential misuse of accessible seating and to take all appropriate action against individuals who fraudulently obtain tickets for accessible seating.  While tickets for accessible seating legitimately purchased for the use of an individual with disability may be transferred to another individual under the same terms and conditions applicable to other tickets, in the event such ticket is transferred to a nondisabled individual, Madison Square Garden reserves the right to transfer that individual to other available seating.\n\nIf the disabled individual cannot attend an event for which he/she has purchased tickets, please contact the Madison Square Garden Disabled Services Department at 212-465-6034 prior to the event taking place for further information. \n\nTickets for individuals with accessible needs, subject to availability, may be purchased in several ways:\n\n1) Online through Ticketmaster.com\n2) By phone to the Disabled Services Department at 888-609-7599\n3) By phone to Ticketmaster at 800-745-3000\n4) In-person by visiting the Madison Square Garden Box Office\n\nAssistive Listening Devices (ALD) are available at Guest Experience locations in the Arena. \n",
+                "adaHours": "For additional information regarding Access at Madison Square Garden or to discuss any other accommodations, please contact the Disabled Services Department at 888-609-7599 between the hours of 9:30am and 4:30pm, Monday - Friday. "
+              },
+              "_links": {
+                "self": {
+                  "href": "/discovery/v2/venues/KovZpZA7AAEA?locale=en-us"
+                }
+              }
+            }
+          ],
+          "attractions": [
+            {
+              "name": "P!NK",
+              "type": "attraction",
+              "id": "K8vZ9171Jo7",
+              "test": false,
+              "url": "https://www.ticketmaster.com/pnk-tickets/artist/718655",
+              "locale": "en-us",
+              "externalLinks": {
+                "youtube": [
+                  {
+                    "url": "https://www.youtube.com/user/PinkVideoVault"
+                  },
+                  {
+                    "url": "https://www.youtube.com/user/PinkVEVO"
+                  }
+                ],
+                "twitter": [
+                  {
+                    "url": "https://twitter.com/Pink"
+                  }
+                ],
+                "itunes": [
+                  {
+                    "url": "https://music.apple.com/us/artist/p-nk/4488522"
+                  }
+                ],
+                "lastfm": [
+                  {
+                    "url": "http://www.last.fm/music/P!nk"
+                  }
+                ],
+                "wiki": [
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Pink_(singer)"
+                  }
+                ],
+                "facebook": [
+                  {
+                    "url": "https://www.facebook.com/pink"
+                  }
+                ],
+                "spotify": [
+                  {
+                    "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+                  }
+                ],
+                "musicbrainz": [
+                  {
+                    "id": "f4d5cc07-3bc9-4836-9b15-88a08359bc63"
+                  }
+                ],
+                "instagram": [
+                  {
+                    "url": "https://www.instagram.com/pink/"
+                  }
+                ],
+                "homepage": [
+                  {
+                    "url": "http://www.pinkspage.com/"
+                  }
+                ]
+              },
+              "aliases": ["p!nk", "pink"],
+              "images": [
+                {
+                  "ratio": "3_2",
+                  "url": "https://s1.ticketm.net/dam/a/4c8/cee4224d-ed9f-4267-81a4-61be2a1f44c8_ARTIST_PAGE_3_2.jpg",
+                  "width": 305,
+                  "height": 203,
+                  "fallback": false
+                },
+                {
+                  "ratio": "16_9",
+                  "url": "https://s1.ticketm.net/dam/a/4c8/cee4224d-ed9f-4267-81a4-61be2a1f44c8_RECOMENDATION_16_9.jpg",
+                  "width": 100,
+                  "height": 56,
+                  "fallback": false
+                },
+                {
+                  "ratio": "16_9",
+                  "url": "https://s1.ticketm.net/dam/a/4c8/cee4224d-ed9f-4267-81a4-61be2a1f44c8_SOURCE",
+                  "width": 2426,
+                  "height": 1365,
+                  "fallback": false
+                },
+                {
+                  "ratio": "16_9",
+                  "url": "https://s1.ticketm.net/dam/a/4c8/cee4224d-ed9f-4267-81a4-61be2a1f44c8_EVENT_DETAIL_PAGE_16_9.jpg",
+                  "width": 205,
+                  "height": 115,
+                  "fallback": false
+                },
+                {
+                  "ratio": "16_9",
+                  "url": "https://s1.ticketm.net/dam/a/4c8/cee4224d-ed9f-4267-81a4-61be2a1f44c8_TABLET_LANDSCAPE_16_9.jpg",
+                  "width": 1024,
+                  "height": 576,
+                  "fallback": false
+                },
+                {
+                  "ratio": "3_2",
+                  "url": "https://s1.ticketm.net/dam/a/4c8/cee4224d-ed9f-4267-81a4-61be2a1f44c8_RETINA_PORTRAIT_3_2.jpg",
+                  "width": 640,
+                  "height": 427,
+                  "fallback": false
+                },
+                {
+                  "ratio": "4_3",
+                  "url": "https://s1.ticketm.net/dam/a/4c8/cee4224d-ed9f-4267-81a4-61be2a1f44c8_CUSTOM.jpg",
+                  "width": 305,
+                  "height": 225,
+                  "fallback": false
+                },
+                {
+                  "ratio": "16_9",
+                  "url": "https://s1.ticketm.net/dam/a/4c8/cee4224d-ed9f-4267-81a4-61be2a1f44c8_RETINA_PORTRAIT_16_9.jpg",
+                  "width": 640,
+                  "height": 360,
+                  "fallback": false
+                },
+                {
+                  "ratio": "16_9",
+                  "url": "https://s1.ticketm.net/dam/a/4c8/cee4224d-ed9f-4267-81a4-61be2a1f44c8_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+                  "width": 2048,
+                  "height": 1152,
+                  "fallback": false
+                },
+                {
+                  "ratio": "3_2",
+                  "url": "https://s1.ticketm.net/dam/a/4c8/cee4224d-ed9f-4267-81a4-61be2a1f44c8_TABLET_LANDSCAPE_3_2.jpg",
+                  "width": 1024,
+                  "height": 683,
+                  "fallback": false
+                },
+                {
+                  "ratio": "16_9",
+                  "url": "https://s1.ticketm.net/dam/a/4c8/cee4224d-ed9f-4267-81a4-61be2a1f44c8_RETINA_LANDSCAPE_16_9.jpg",
+                  "width": 1136,
+                  "height": 639,
+                  "fallback": false
+                }
+              ],
+              "classifications": [
+                {
+                  "primary": true,
+                  "segment": {
+                    "id": "KZFzniwnSyZfZ7v7nJ",
+                    "name": "Music"
+                  },
+                  "genre": {
+                    "id": "KnvZfZ7vAeA",
+                    "name": "Rock"
+                  },
+                  "subGenre": {
+                    "id": "KZazBEonSMnZfZ7v6F1",
+                    "name": "Pop"
+                  },
+                  "type": {
+                    "id": "KZAyXgnZfZ7v7la",
+                    "name": "Individual"
+                  },
+                  "subType": {
+                    "id": "KZFzBErXgnZfZ7vAd7",
+                    "name": "Musician"
+                  },
+                  "family": false
+                }
+              ],
+              "upcomingEvents": {
+                "_total": 76,
+                "mfx-nl": 2,
+                "tmr": 4,
+                "ticketmaster": 68,
+                "mfx-be": 1,
+                "_filtered": 0,
+                "mfx-pl": 1
+              },
+              "_links": {
+                "self": {
+                  "href": "/discovery/v2/attractions/K8vZ9171Jo7?locale=en-us"
+                }
+              }
+            },
+            {
+              "name": "Grouplove",
+              "type": "attraction",
+              "id": "K8vZ917ufxV",
+              "test": false,
+              "url": "https://www.ticketmaster.com/grouplove-tickets/artist/1504793",
+              "locale": "en-us",
+              "externalLinks": {
+                "youtube": [
+                  {
+                    "url": "https://www.youtube.com/user/grouplovemusic"
+                  }
+                ],
+                "twitter": [
+                  {
+                    "url": "https://twitter.com/GROUPLOVE"
+                  }
+                ],
+                "itunes": [
+                  {
+                    "url": "https://music.apple.com/us/artist/grouplove/410732500?uo=4&app=music"
+                  }
+                ],
+                "lastfm": [
+                  {
+                    "url": "http://www.last.fm/music/Grouplove"
+                  }
+                ],
+                "facebook": [
+                  {
+                    "url": "https://www.facebook.com/GROUPLOVE"
+                  }
+                ],
+                "wiki": [
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Grouplove"
+                  }
+                ],
+                "spotify": [
+                  {
+                    "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
+                  }
+                ],
+                "musicbrainz": [
+                  {
+                    "id": "d8e41375-bd8d-4e39-9da7-f0c171e97086"
+                  }
+                ],
+                "instagram": [
+                  {
+                    "url": "https://www.instagram.com/grouplove/"
+                  }
+                ],
+                "homepage": [
+                  {
+                    "url": "http://www.grouplovemusic.com/"
+                  }
+                ]
+              },
+              "images": [
+                {
+                  "ratio": "16_9",
+                  "url": "https://s1.ticketm.net/dam/a/d3e/8cd05044-8512-42eb-b307-0e1aa783dd3e_1250691_RETINA_PORTRAIT_16_9.jpg",
+                  "width": 640,
+                  "height": 360,
+                  "fallback": false
+                },
+                {
+                  "ratio": "3_2",
+                  "url": "https://s1.ticketm.net/dam/a/d3e/8cd05044-8512-42eb-b307-0e1aa783dd3e_1250691_ARTIST_PAGE_3_2.jpg",
+                  "width": 305,
+                  "height": 203,
+                  "fallback": false
+                },
+                {
+                  "ratio": "16_9",
+                  "url": "https://s1.ticketm.net/dam/a/d3e/8cd05044-8512-42eb-b307-0e1aa783dd3e_1250691_EVENT_DETAIL_PAGE_16_9.jpg",
+                  "width": 205,
+                  "height": 115,
+                  "fallback": false
+                },
+                {
+                  "ratio": "16_9",
+                  "url": "https://s1.ticketm.net/dam/a/d3e/8cd05044-8512-42eb-b307-0e1aa783dd3e_1250691_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+                  "width": 2048,
+                  "height": 1152,
+                  "fallback": false
+                },
+                {
+                  "ratio": "16_9",
+                  "url": "https://s1.ticketm.net/dam/a/d3e/8cd05044-8512-42eb-b307-0e1aa783dd3e_1250691_RECOMENDATION_16_9.jpg",
+                  "width": 100,
+                  "height": 56,
+                  "fallback": false
+                },
+                {
+                  "ratio": "3_2",
+                  "url": "https://s1.ticketm.net/dam/a/d3e/8cd05044-8512-42eb-b307-0e1aa783dd3e_1250691_TABLET_LANDSCAPE_3_2.jpg",
+                  "width": 1024,
+                  "height": 683,
+                  "fallback": false
+                },
+                {
+                  "ratio": "3_2",
+                  "url": "https://s1.ticketm.net/dam/a/d3e/8cd05044-8512-42eb-b307-0e1aa783dd3e_1250691_RETINA_PORTRAIT_3_2.jpg",
+                  "width": 640,
+                  "height": 427,
+                  "fallback": false
+                },
+                {
+                  "ratio": "4_3",
+                  "url": "https://s1.ticketm.net/dam/a/d3e/8cd05044-8512-42eb-b307-0e1aa783dd3e_1250691_CUSTOM.jpg",
+                  "width": 305,
+                  "height": 225,
+                  "fallback": false
+                },
+                {
+                  "ratio": "16_9",
+                  "url": "https://s1.ticketm.net/dam/a/d3e/8cd05044-8512-42eb-b307-0e1aa783dd3e_1250691_RETINA_LANDSCAPE_16_9.jpg",
+                  "width": 1136,
+                  "height": 639,
+                  "fallback": false
+                },
+                {
+                  "ratio": "16_9",
+                  "url": "https://s1.ticketm.net/dam/a/d3e/8cd05044-8512-42eb-b307-0e1aa783dd3e_1250691_TABLET_LANDSCAPE_16_9.jpg",
+                  "width": 1024,
+                  "height": 576,
+                  "fallback": false
+                }
+              ],
+              "classifications": [
+                {
+                  "primary": true,
+                  "segment": {
+                    "id": "KZFzniwnSyZfZ7v7nJ",
+                    "name": "Music"
+                  },
+                  "genre": {
+                    "id": "KnvZfZ7vAeA",
+                    "name": "Rock"
+                  },
+                  "subGenre": {
+                    "id": "KZazBEonSMnZfZ7v6dt",
+                    "name": "Alternative Rock"
+                  },
+                  "type": {
+                    "id": "KZAyXgnZfZ7v7nI",
+                    "name": "Undefined"
+                  },
+                  "subType": {
+                    "id": "KZFzBErXgnZfZ7v7lJ",
+                    "name": "Undefined"
+                  },
+                  "family": false
+                }
+              ],
+              "upcomingEvents": {
+                "_total": 51,
+                "tmr": 3,
+                "ticketmaster": 48,
+                "_filtered": 0
+              },
+              "_links": {
+                "self": {
+                  "href": "/discovery/v2/attractions/K8vZ917ufxV?locale=en-us"
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "P!NK: TRUSTFALL TOUR",
+        "type": "event",
+        "id": "G5diZ90DKVs-O",
+        "test": false,
+        "url": "https://www.ticketmaster.com/pnk-trustfall-tour-new-york-new-york-11-05-2023/event/3B005E4ED3D31860",
+        "locale": "en-us",
+        "images": [
+          {
+            "ratio": "3_2",
+            "url": "https://s1.ticketm.net/dam/a/4c8/cee4224d-ed9f-4267-81a4-61be2a1f44c8_ARTIST_PAGE_3_2.jpg",
+            "width": 305,
+            "height": 203,
+            "fallback": false
+          },
+          {
+            "ratio": "16_9",
+            "url": "https://s1.ticketm.net/dam/a/4c8/cee4224d-ed9f-4267-81a4-61be2a1f44c8_RECOMENDATION_16_9.jpg",
+            "width": 100,
+            "height": 56,
+            "fallback": false
+          },
+          {
+            "ratio": "16_9",
+            "url": "https://s1.ticketm.net/dam/a/4c8/cee4224d-ed9f-4267-81a4-61be2a1f44c8_SOURCE",
+            "width": 2426,
+            "height": 1365,
+            "fallback": false
+          },
+          {
+            "ratio": "16_9",
+            "url": "https://s1.ticketm.net/dam/a/4c8/cee4224d-ed9f-4267-81a4-61be2a1f44c8_EVENT_DETAIL_PAGE_16_9.jpg",
+            "width": 205,
+            "height": 115,
+            "fallback": false
+          },
+          {
+            "ratio": "16_9",
+            "url": "https://s1.ticketm.net/dam/a/4c8/cee4224d-ed9f-4267-81a4-61be2a1f44c8_TABLET_LANDSCAPE_16_9.jpg",
+            "width": 1024,
+            "height": 576,
+            "fallback": false
+          },
+          {
+            "ratio": "3_2",
+            "url": "https://s1.ticketm.net/dam/a/4c8/cee4224d-ed9f-4267-81a4-61be2a1f44c8_RETINA_PORTRAIT_3_2.jpg",
+            "width": 640,
+            "height": 427,
+            "fallback": false
+          },
+          {
+            "ratio": "4_3",
+            "url": "https://s1.ticketm.net/dam/a/4c8/cee4224d-ed9f-4267-81a4-61be2a1f44c8_CUSTOM.jpg",
+            "width": 305,
+            "height": 225,
+            "fallback": false
+          },
+          {
+            "ratio": "16_9",
+            "url": "https://s1.ticketm.net/dam/a/4c8/cee4224d-ed9f-4267-81a4-61be2a1f44c8_RETINA_PORTRAIT_16_9.jpg",
+            "width": 640,
+            "height": 360,
+            "fallback": false
+          },
+          {
+            "ratio": "16_9",
+            "url": "https://s1.ticketm.net/dam/a/4c8/cee4224d-ed9f-4267-81a4-61be2a1f44c8_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+            "width": 2048,
+            "height": 1152,
+            "fallback": false
+          },
+          {
+            "ratio": "3_2",
+            "url": "https://s1.ticketm.net/dam/a/4c8/cee4224d-ed9f-4267-81a4-61be2a1f44c8_TABLET_LANDSCAPE_3_2.jpg",
+            "width": 1024,
+            "height": 683,
+            "fallback": false
+          },
+          {
+            "ratio": "16_9",
+            "url": "https://s1.ticketm.net/dam/a/4c8/cee4224d-ed9f-4267-81a4-61be2a1f44c8_RETINA_LANDSCAPE_16_9.jpg",
+            "width": 1136,
+            "height": 639,
+            "fallback": false
+          }
+        ],
+        "distance": 2.66,
+        "units": "MILES",
+        "sales": {
+          "public": {
+            "startDateTime": "2023-02-24T15:00:00Z",
+            "startTBD": false,
+            "startTBA": false,
+            "endDateTime": "2023-11-06T00:30:00Z"
+          },
+          "presales": [
+            {
+              "startDateTime": "2023-02-22T15:00:00Z",
+              "endDateTime": "2023-02-24T03:00:00Z",
+              "name": "Citi\u00ae Cardmember Presale"
+            },
+            {
+              "startDateTime": "2023-02-22T15:00:00Z",
+              "endDateTime": "2023-02-24T03:00:00Z",
+              "name": "Verizon Up Presale Tickets"
+            },
+            {
+              "startDateTime": "2023-02-23T15:00:00Z",
+              "endDateTime": "2023-02-24T03:00:00Z",
+              "name": "Live Nation Presale"
+            },
+            {
+              "startDateTime": "2023-02-23T15:00:00Z",
+              "endDateTime": "2023-02-24T03:00:00Z",
+              "name": "MSG Presale"
+            },
+            {
+              "startDateTime": "2023-02-24T15:00:00Z",
+              "endDateTime": "2023-11-06T00:30:00Z",
+              "name": "Chase Cardmember Preferred Seating"
+            },
+            {
+              "startDateTime": "2023-02-24T15:00:00Z",
+              "endDateTime": "2023-10-08T23:30:00Z",
+              "name": "Citi\u00ae Cardmember Preferred Tickets"
+            },
+            {
+              "startDateTime": "2023-02-24T15:00:00Z",
+              "endDateTime": "2023-10-09T02:00:00Z",
+              "name": "Verizon Up Select Seats"
+            },
+            {
+              "startDateTime": "2023-02-22T15:00:00Z",
+              "endDateTime": "2023-02-24T03:00:00Z",
+              "name": "Aisle Seating Presale"
+            },
+            {
+              "startDateTime": "2023-02-24T15:00:00Z",
+              "endDateTime": "2023-11-06T00:30:00Z",
+              "name": "Aisle Seating"
+            },
+            {
+              "startDateTime": "2023-02-22T15:00:00Z",
+              "endDateTime": "2023-02-24T03:00:00Z",
+              "name": "VIP Packages Presale"
+            },
+            {
+              "startDateTime": "2023-02-24T15:00:00Z",
+              "endDateTime": "2023-10-30T02:00:00Z",
+              "name": "VIP Package Onsale"
+            },
+            {
+              "startDateTime": "2023-02-22T15:00:00Z",
+              "endDateTime": "2023-02-24T14:45:00Z",
+              "name": "Official Platinum Presale"
+            },
+            {
+              "startDateTime": "2023-02-24T15:00:00Z",
+              "endDateTime": "2023-11-06T00:30:00Z",
+              "name": "Official Platinum"
+            }
+          ]
+        },
+        "dates": {
+          "start": {
+            "localDate": "2023-11-05",
+            "localTime": "19:30:00",
+            "dateTime": "2023-11-06T00:30:00Z",
+            "dateTBD": false,
+            "dateTBA": false,
+            "timeTBA": false,
+            "noSpecificTime": false
+          },
+          "timezone": "America/New_York",
+          "status": {
+            "code": "onsale"
+          },
+          "spanMultipleDays": false
+        },
+        "classifications": [
+          {
+            "primary": true,
+            "segment": {
+              "id": "KZFzniwnSyZfZ7v7nJ",
+              "name": "Music"
+            },
+            "genre": {
+              "id": "KnvZfZ7vAeA",
+              "name": "Rock"
+            },
+            "subGenre": {
+              "id": "KZazBEonSMnZfZ7v6F1",
+              "name": "Pop"
+            },
+            "type": {
+              "id": "KZAyXgnZfZ7v7nI",
+              "name": "Undefined"
+            },
+            "subType": {
+              "id": "KZFzBErXgnZfZ7v7lJ",
+              "name": "Undefined"
+            },
+            "family": false
+          }
+        ],
+        "promoter": {
+          "id": "494",
+          "name": "PROMOTED BY VENUE",
+          "description": "PROMOTED BY VENUE / NTL / USA"
+        },
+        "promoters": [
+          {
+            "id": "494",
+            "name": "PROMOTED BY VENUE",
+            "description": "PROMOTED BY VENUE / NTL / USA"
+          }
+        ],
+        "info": "In the best interest of fans and staff, the Event Organizer will continue to monitor local COVID-19 trends and meet or exceed protocols mandated by local governments. By purchasing tickets to this event, you agree to abide by the health and safety measures in effect at the time of the event, which may include, but not be limited to, wearing masks, providing proof of vaccination status and/or providing proof of negative COVID-19 test. Government mandates, venue protocols, and event requirements are subject to change. For more information, please search your event on msg.com.",
+        "pleaseNote": "In the best interest of fans and staff, the Event Organizer will continue to monitor local COVID-19 trends and meet or exceed protocols mandated by local governments. By purchasing tickets to this event, you agree to abide by the health and safety measures in effect at the time of the event, which may include, but not be limited to, wearing masks, providing proof of vaccination status and/or providing proof of negative COVID-19 test. Government mandates, venue protocols, and event requirements are subject to change. For more information, please search your event on msg.com. Tickets are not available at the box office on the first day of the public on sale. ARRIVE EARLY: Please arrive one-hour prior to showtime. All packages, including briefcases and pocketbooks, will be inspected prior to entry.",
+        "priceRanges": [
+          {
+            "type": "standard",
+            "currency": "USD",
+            "min": 69.95,
+            "max": 389.95
+          }
+        ],
+        "seatmap": {
+          "staticUrl": "https://maps.ticketmaster.com/maps/geometry/3/event/3B005E4ED3D31860/staticImage?type=png&systemId=HOST"
+        },
+        "accessibility": {
+          "ticketLimit": 2
+        },
+        "ticketLimit": {
+          "info": "There is an overall (8) eight ticket limit for this event."
+        },
+        "ageRestrictions": {
+          "legalAgeEnforced": false
+        },
+        "ticketing": {
+          "safeTix": {
+            "enabled": true
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "/discovery/v2/events/G5diZ90DKVs-O?locale=en-us"
+          },
+          "attractions": [
+            {
+              "href": "/discovery/v2/attractions/K8vZ9171Jo7?locale=en-us"
+            },
+            {
+              "href": "/discovery/v2/attractions/K8vZ917ufxV?locale=en-us"
+            }
+          ],
+          "venues": [
+            {
+              "href": "/discovery/v2/venues/KovZpZA7AAEA?locale=en-us"
+            }
+          ]
+        },
+        "_embedded": {
+          "venues": [
+            {
+              "name": "Madison Square Garden",
+              "type": "venue",
+              "id": "KovZpZA7AAEA",
+              "test": false,
+              "url": "https://www.ticketmaster.com/madison-square-garden-tickets-new-york/venue/483329",
+              "locale": "en-us",
+              "aliases": ["msg", "madison square garden"],
+              "images": [
+                {
+                  "ratio": "16_9",
+                  "url": "https://s1.ticketm.net/dbimages/15646v.jpg",
+                  "width": 205,
+                  "height": 115,
+                  "fallback": false
+                }
+              ],
+              "distance": 2.66,
+              "units": "MILES",
+              "postalCode": "10001",
+              "timezone": "America/New_York",
+              "city": {
+                "name": "New York"
+              },
+              "state": {
+                "name": "New York",
+                "stateCode": "NY"
+              },
+              "country": {
+                "name": "United States Of America",
+                "countryCode": "US"
+              },
+              "address": {
+                "line1": "7th Ave & 32nd Street"
+              },
+              "location": {
+                "longitude": "-73.9916006",
+                "latitude": "40.7497062"
+              },
+              "markets": [
+                {
+                  "name": "New York/Tri-State Area",
+                  "id": "35"
+                },
+                {
+                  "name": "All of US",
+                  "id": "51"
+                },
+                {
+                  "name": "Northern New Jersey",
+                  "id": "55"
+                },
+                {
+                  "name": "Connecticut",
+                  "id": "124"
+                }
+              ],
+              "dmas": [
+                {
+                  "id": 200
+                },
+                {
+                  "id": 296
+                },
+                {
+                  "id": 345
+                },
+                {
+                  "id": 422
+                }
+              ],
+              "social": {
+                "twitter": {
+                  "handle": "@TheGarden"
+                }
+              },
+              "boxOfficeInfo": {
+                "phoneNumberDetail": "General Info: (212) 465-MSG1 (6741) or (212) 247-4777 Knicks Information: 1(877) NYK-DUNK. Rangers Fan Line: (212) 465-4459. Liberty Hotline: (212) 564-WNBA (9622). Season Subscriptions: (212) 465-6073. Disabled Services: (212) 465-6034 Guest Relations: (212) 465 - 6225 Group Sales: (212) 465-6100 Lost and Found: (212) 465-6299",
+                "openHoursDetail": "Monday - Saturday: 10:00am to 6:00pm **Tickets are not on-sale at the Box Office on the first day an event goes on-sale** The Box Office will be open at 10:00am daily or 90 minutes before the 1st performance of the day, whichever is earlier and will stay open until 8:00pm or 30 minutes after the last performance of the day begins, whichever is later. Sunday \u2013 Closed If an event takes place on Sunday, Box Office will open 90 minutes before the event start time and remain open 1 hour after event start time for Will Call and tickets sales for the evening's event only.",
+                "acceptedPaymentDetail": "Cash, American Express, Visa, MasterCard, Discover. ATM machines are located in Chase Square.",
+                "willCallDetail": "Pick-up tickets anytime the day of the show during box office hours (see above). Customers must present the actual credit card used to place the order and a picture ID. MSG cannot accept third party or \u201cdrop offs\u201d from individual patrons."
+              },
+              "parkingDetail": "Prepaid advance parking is available for select events through Ticketmaster or via a link on www.thegarden.com. Madison Square Garden does not own or operate any parking facility.",
+              "accessibleSeatingDetail": "MSG WHEELCHAIR AND TRANSFER SEATING POLICY: Wheelchair and Transfer seating is reserved exclusively for patrons with accessible needs and their companions. Accessible seating is intended for use by an individual with a mobility disability or other disability who requires the accessible features of accessible seating due to a disability, and that individual's companions. Madison Square Garden (MSG) reserves the right to investigate potential misuse of accessible seating and to take all appropriate action against individuals who fraudulently obtain tickets for accessible seating. While tickets for accessible seating legitimately purchased for the use of an individual with disability may be transferred to another individual under the same terms and conditions applicable to other tickets, in the event such ticket is transferred to a non-disabled individual, MSG reserves the right to transfer that individual to other available seating TO ORDER WHEELCHAIR AND TRANSFER SEATING: Tickets for people with accessible needs, subject to availability, may be purchased in several ways: 1) Call Ticketmaster at 866-858-0008 2) Call MSG's Disabled Services Department at (212)465-6115. 3) Visit Madison Square Garden's Box Office (see box office hours above) 4) Order Online with Ticketmaster (select your event from the list to the left) For additional information regarding accessibility at Madison Square Garden or to request any other accommodations, please call MSG's Disabled Services Department at (212) 465-6115 any weekday between 9:30am-4:30pm ET. Service Animals Pets are not permitted at Madison Square Garden. MSG has very specific policies related to service and emotional support animals. Please visit www.thegarden.com to obtain more information for admitting your animal. Assistive listening devices (ALDAs) are available upon request. Please visit the Guest Experience Office across from section 117 for assistance. There is no charge for this service, however some form of identification will be requested and returned to you, once the device is checked back in. Wheelchair Storage: For patrons who wish to transfer to a seat from their wheelchair, we will store your mobility device at the Guest Experience Office. You will receive a claim check for your device. Wheelchair Escorts to Seats: Patrons with mobility impairments who do not have access to a wheelchair may request a wheelchair to transport the individual to/from their seat, free of charge. Please be aware that our personnel cannot remain with you during the event, nor will they allow you to remain in or keep the wheelchair for the duration of the event. In the event a patron requires the use of a wheelchair for the duration of the event, we recommend bringing your own wheelchair or other mobility device. The escort pick-up area is located on the South (toward 31st) side of Chase Square at elevator alcove. Please allow for extra so that you may be accommodated prior to the event start. Simply ask a Guest Experience Representative or a MSG Security Guard for assistance. Elevators: Public elevators are available for use by guests with disabilities and service every seating level",
+              "generalInfo": {
+                "generalRule": "ARRIVE EARLY: Please arrive at least one-hour prior to event time. All patrons will go through a screening process upon entry with all packages, including briefcases and pocketbooks, being inspected prior to entry. Additionally, metal detectors may be utilized for some events. Bags that have passed inspection must fit comfortably under your seat.Please be mindful of traffic conditions, as Midtown Manhattan can be quite congested, especially during the holidays, parades, or special events. No smoking or electronic cigarettes permitted anywhere in the building No reentry. No recording devices No outside food or drink There are no bag or coat check facilities Alcohol Management: For most events at MSG, alcoholic beverages are available for purchase. MSG staff is trained in the nationally recognized T.E.A.M. (Techniques for Effective Alcohol Management) training program for responsible alcohol management. All guests will be required to show ID to purchase alcohol. Guests are not permitted to bring in alcoholic beverages from outside and may not leave with alcohol purchased inside the venue. Management reserves the right to refuse the sale of alcohol to any guest. Please be aware that it is the policy of The Madison Square Garden Company to require all guests who appear to be forty (40) years of age or younger to present a valid form of ID with proof of age in order to purchase alcoholic beverages at Madison Square Garden, Radio City Music Hall, The Beacon Theatre or The Chicago Theatre. Pursuant to applicable State law, MSG accepts only the following forms of identification: \u2022 A valid driver\u2019s license or non-driver identification card issued by the United States Government, a State Government, Commonwealth, Possession or Territory of the United States or a Provincial Government of Canada. \u2022 A valid passport \u2022 A valid U.S. military ID International guests wishing to consume alcohol inside the building must bring a valid passport as the only form of acceptable ID.",
+                "childRule": "For most events, all children who have reached their second birthday require a ticket to gain admittance to Madison Square Garden. Any child who has yet to reach their second birthday does not require a ticket, however, they may not occupy their own seat. Please note, that for certain children's events (such as the Wiggles and Sesame Street Live!), all children who have reached their first birthday require a ticket. Please check the event profile for your specific event for more information prior to your purchase of tickets."
+              },
+              "upcomingEvents": {
+                "_total": 132,
+                "ticketmaster": 132,
+                "_filtered": 0
+              },
+              "ada": {
+                "adaPhones": "Inquiries or requests concerning accessibility should be directed to the Accessible Services Department for Madison Square Garden at 888-609-7599.",
+                "adaCustomCopy": "Individuals with disabilities may purchase up to three seats for companions in the wheelchair or other accessible seating areas, provided such seats are available.  Additional tickets, if available, may be purchased as close to the accessible seating areas, as long as it does not exceed the ticket limit for the event.  Please note, for events or specific seating sections where ticket sales are limited to fewer than four tickets per patron, the same ticket restrictions will apply to the purchase of accessible seating.\n\nAccessible seating is intended for use by an individual with a mobility disability or other disability who requires the accessible features of accessible seating due to a disability, and that individual's companions.  Madison Square Garden reserves the right to investigate potential misuse of accessible seating and to take all appropriate action against individuals who fraudulently obtain tickets for accessible seating.  While tickets for accessible seating legitimately purchased for the use of an individual with disability may be transferred to another individual under the same terms and conditions applicable to other tickets, in the event such ticket is transferred to a nondisabled individual, Madison Square Garden reserves the right to transfer that individual to other available seating.\n\nIf the disabled individual cannot attend an event for which he/she has purchased tickets, please contact the Madison Square Garden Disabled Services Department at 212-465-6034 prior to the event taking place for further information. \n\nTickets for individuals with accessible needs, subject to availability, may be purchased in several ways:\n\n1) Online through Ticketmaster.com\n2) By phone to the Disabled Services Department at 888-609-7599\n3) By phone to Ticketmaster at 800-745-3000\n4) In-person by visiting the Madison Square Garden Box Office\n\nAssistive Listening Devices (ALD) are available at Guest Experience locations in the Arena. \n",
+                "adaHours": "For additional information regarding Access at Madison Square Garden or to discuss any other accommodations, please contact the Disabled Services Department at 888-609-7599 between the hours of 9:30am and 4:30pm, Monday - Friday. "
+              },
+              "_links": {
+                "self": {
+                  "href": "/discovery/v2/venues/KovZpZA7AAEA?locale=en-us"
+                }
+              }
+            }
+          ],
+          "attractions": [
+            {
+              "name": "P!NK",
+              "type": "attraction",
+              "id": "K8vZ9171Jo7",
+              "test": false,
+              "url": "https://www.ticketmaster.com/pnk-tickets/artist/718655",
+              "locale": "en-us",
+              "externalLinks": {
+                "youtube": [
+                  {
+                    "url": "https://www.youtube.com/user/PinkVideoVault"
+                  },
+                  {
+                    "url": "https://www.youtube.com/user/PinkVEVO"
+                  }
+                ],
+                "twitter": [
+                  {
+                    "url": "https://twitter.com/Pink"
+                  }
+                ],
+                "itunes": [
+                  {
+                    "url": "https://music.apple.com/us/artist/p-nk/4488522"
+                  }
+                ],
+                "lastfm": [
+                  {
+                    "url": "http://www.last.fm/music/P!nk"
+                  }
+                ],
+                "wiki": [
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Pink_(singer)"
+                  }
+                ],
+                "facebook": [
+                  {
+                    "url": "https://www.facebook.com/pink"
+                  }
+                ],
+                "spotify": [
+                  {
+                    "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+                  }
+                ],
+                "musicbrainz": [
+                  {
+                    "id": "f4d5cc07-3bc9-4836-9b15-88a08359bc63"
+                  }
+                ],
+                "instagram": [
+                  {
+                    "url": "https://www.instagram.com/pink/"
+                  }
+                ],
+                "homepage": [
+                  {
+                    "url": "http://www.pinkspage.com/"
+                  }
+                ]
+              },
+              "aliases": ["p!nk", "pink"],
+              "images": [
+                {
+                  "ratio": "3_2",
+                  "url": "https://s1.ticketm.net/dam/a/4c8/cee4224d-ed9f-4267-81a4-61be2a1f44c8_ARTIST_PAGE_3_2.jpg",
+                  "width": 305,
+                  "height": 203,
+                  "fallback": false
+                },
+                {
+                  "ratio": "16_9",
+                  "url": "https://s1.ticketm.net/dam/a/4c8/cee4224d-ed9f-4267-81a4-61be2a1f44c8_RECOMENDATION_16_9.jpg",
+                  "width": 100,
+                  "height": 56,
+                  "fallback": false
+                },
+                {
+                  "ratio": "16_9",
+                  "url": "https://s1.ticketm.net/dam/a/4c8/cee4224d-ed9f-4267-81a4-61be2a1f44c8_SOURCE",
+                  "width": 2426,
+                  "height": 1365,
+                  "fallback": false
+                },
+                {
+                  "ratio": "16_9",
+                  "url": "https://s1.ticketm.net/dam/a/4c8/cee4224d-ed9f-4267-81a4-61be2a1f44c8_EVENT_DETAIL_PAGE_16_9.jpg",
+                  "width": 205,
+                  "height": 115,
+                  "fallback": false
+                },
+                {
+                  "ratio": "16_9",
+                  "url": "https://s1.ticketm.net/dam/a/4c8/cee4224d-ed9f-4267-81a4-61be2a1f44c8_TABLET_LANDSCAPE_16_9.jpg",
+                  "width": 1024,
+                  "height": 576,
+                  "fallback": false
+                },
+                {
+                  "ratio": "3_2",
+                  "url": "https://s1.ticketm.net/dam/a/4c8/cee4224d-ed9f-4267-81a4-61be2a1f44c8_RETINA_PORTRAIT_3_2.jpg",
+                  "width": 640,
+                  "height": 427,
+                  "fallback": false
+                },
+                {
+                  "ratio": "4_3",
+                  "url": "https://s1.ticketm.net/dam/a/4c8/cee4224d-ed9f-4267-81a4-61be2a1f44c8_CUSTOM.jpg",
+                  "width": 305,
+                  "height": 225,
+                  "fallback": false
+                },
+                {
+                  "ratio": "16_9",
+                  "url": "https://s1.ticketm.net/dam/a/4c8/cee4224d-ed9f-4267-81a4-61be2a1f44c8_RETINA_PORTRAIT_16_9.jpg",
+                  "width": 640,
+                  "height": 360,
+                  "fallback": false
+                },
+                {
+                  "ratio": "16_9",
+                  "url": "https://s1.ticketm.net/dam/a/4c8/cee4224d-ed9f-4267-81a4-61be2a1f44c8_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+                  "width": 2048,
+                  "height": 1152,
+                  "fallback": false
+                },
+                {
+                  "ratio": "3_2",
+                  "url": "https://s1.ticketm.net/dam/a/4c8/cee4224d-ed9f-4267-81a4-61be2a1f44c8_TABLET_LANDSCAPE_3_2.jpg",
+                  "width": 1024,
+                  "height": 683,
+                  "fallback": false
+                },
+                {
+                  "ratio": "16_9",
+                  "url": "https://s1.ticketm.net/dam/a/4c8/cee4224d-ed9f-4267-81a4-61be2a1f44c8_RETINA_LANDSCAPE_16_9.jpg",
+                  "width": 1136,
+                  "height": 639,
+                  "fallback": false
+                }
+              ],
+              "classifications": [
+                {
+                  "primary": true,
+                  "segment": {
+                    "id": "KZFzniwnSyZfZ7v7nJ",
+                    "name": "Music"
+                  },
+                  "genre": {
+                    "id": "KnvZfZ7vAeA",
+                    "name": "Rock"
+                  },
+                  "subGenre": {
+                    "id": "KZazBEonSMnZfZ7v6F1",
+                    "name": "Pop"
+                  },
+                  "type": {
+                    "id": "KZAyXgnZfZ7v7la",
+                    "name": "Individual"
+                  },
+                  "subType": {
+                    "id": "KZFzBErXgnZfZ7vAd7",
+                    "name": "Musician"
+                  },
+                  "family": false
+                }
+              ],
+              "upcomingEvents": {
+                "_total": 76,
+                "mfx-nl": 2,
+                "tmr": 4,
+                "ticketmaster": 68,
+                "mfx-be": 1,
+                "_filtered": 0,
+                "mfx-pl": 1
+              },
+              "_links": {
+                "self": {
+                  "href": "/discovery/v2/attractions/K8vZ9171Jo7?locale=en-us"
+                }
+              }
+            },
+            {
+              "name": "Grouplove",
+              "type": "attraction",
+              "id": "K8vZ917ufxV",
+              "test": false,
+              "url": "https://www.ticketmaster.com/grouplove-tickets/artist/1504793",
+              "locale": "en-us",
+              "externalLinks": {
+                "youtube": [
+                  {
+                    "url": "https://www.youtube.com/user/grouplovemusic"
+                  }
+                ],
+                "twitter": [
+                  {
+                    "url": "https://twitter.com/GROUPLOVE"
+                  }
+                ],
+                "itunes": [
+                  {
+                    "url": "https://music.apple.com/us/artist/grouplove/410732500?uo=4&app=music"
+                  }
+                ],
+                "lastfm": [
+                  {
+                    "url": "http://www.last.fm/music/Grouplove"
+                  }
+                ],
+                "facebook": [
+                  {
+                    "url": "https://www.facebook.com/GROUPLOVE"
+                  }
+                ],
+                "wiki": [
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Grouplove"
+                  }
+                ],
+                "spotify": [
+                  {
+                    "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
+                  }
+                ],
+                "musicbrainz": [
+                  {
+                    "id": "d8e41375-bd8d-4e39-9da7-f0c171e97086"
+                  }
+                ],
+                "instagram": [
+                  {
+                    "url": "https://www.instagram.com/grouplove/"
+                  }
+                ],
+                "homepage": [
+                  {
+                    "url": "http://www.grouplovemusic.com/"
+                  }
+                ]
+              },
+              "images": [
+                {
+                  "ratio": "16_9",
+                  "url": "https://s1.ticketm.net/dam/a/d3e/8cd05044-8512-42eb-b307-0e1aa783dd3e_1250691_RETINA_PORTRAIT_16_9.jpg",
+                  "width": 640,
+                  "height": 360,
+                  "fallback": false
+                },
+                {
+                  "ratio": "3_2",
+                  "url": "https://s1.ticketm.net/dam/a/d3e/8cd05044-8512-42eb-b307-0e1aa783dd3e_1250691_ARTIST_PAGE_3_2.jpg",
+                  "width": 305,
+                  "height": 203,
+                  "fallback": false
+                },
+                {
+                  "ratio": "16_9",
+                  "url": "https://s1.ticketm.net/dam/a/d3e/8cd05044-8512-42eb-b307-0e1aa783dd3e_1250691_EVENT_DETAIL_PAGE_16_9.jpg",
+                  "width": 205,
+                  "height": 115,
+                  "fallback": false
+                },
+                {
+                  "ratio": "16_9",
+                  "url": "https://s1.ticketm.net/dam/a/d3e/8cd05044-8512-42eb-b307-0e1aa783dd3e_1250691_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+                  "width": 2048,
+                  "height": 1152,
+                  "fallback": false
+                },
+                {
+                  "ratio": "16_9",
+                  "url": "https://s1.ticketm.net/dam/a/d3e/8cd05044-8512-42eb-b307-0e1aa783dd3e_1250691_RECOMENDATION_16_9.jpg",
+                  "width": 100,
+                  "height": 56,
+                  "fallback": false
+                },
+                {
+                  "ratio": "3_2",
+                  "url": "https://s1.ticketm.net/dam/a/d3e/8cd05044-8512-42eb-b307-0e1aa783dd3e_1250691_TABLET_LANDSCAPE_3_2.jpg",
+                  "width": 1024,
+                  "height": 683,
+                  "fallback": false
+                },
+                {
+                  "ratio": "3_2",
+                  "url": "https://s1.ticketm.net/dam/a/d3e/8cd05044-8512-42eb-b307-0e1aa783dd3e_1250691_RETINA_PORTRAIT_3_2.jpg",
+                  "width": 640,
+                  "height": 427,
+                  "fallback": false
+                },
+                {
+                  "ratio": "4_3",
+                  "url": "https://s1.ticketm.net/dam/a/d3e/8cd05044-8512-42eb-b307-0e1aa783dd3e_1250691_CUSTOM.jpg",
+                  "width": 305,
+                  "height": 225,
+                  "fallback": false
+                },
+                {
+                  "ratio": "16_9",
+                  "url": "https://s1.ticketm.net/dam/a/d3e/8cd05044-8512-42eb-b307-0e1aa783dd3e_1250691_RETINA_LANDSCAPE_16_9.jpg",
+                  "width": 1136,
+                  "height": 639,
+                  "fallback": false
+                },
+                {
+                  "ratio": "16_9",
+                  "url": "https://s1.ticketm.net/dam/a/d3e/8cd05044-8512-42eb-b307-0e1aa783dd3e_1250691_TABLET_LANDSCAPE_16_9.jpg",
+                  "width": 1024,
+                  "height": 576,
+                  "fallback": false
+                }
+              ],
+              "classifications": [
+                {
+                  "primary": true,
+                  "segment": {
+                    "id": "KZFzniwnSyZfZ7v7nJ",
+                    "name": "Music"
+                  },
+                  "genre": {
+                    "id": "KnvZfZ7vAeA",
+                    "name": "Rock"
+                  },
+                  "subGenre": {
+                    "id": "KZazBEonSMnZfZ7v6dt",
+                    "name": "Alternative Rock"
+                  },
+                  "type": {
+                    "id": "KZAyXgnZfZ7v7nI",
+                    "name": "Undefined"
+                  },
+                  "subType": {
+                    "id": "KZFzBErXgnZfZ7v7lJ",
+                    "name": "Undefined"
+                  },
+                  "family": false
+                }
+              ],
+              "upcomingEvents": {
+                "_total": 51,
+                "tmr": 3,
+                "ticketmaster": 48,
+                "_filtered": 0
+              },
+              "_links": {
+                "self": {
+                  "href": "/discovery/v2/attractions/K8vZ917ufxV?locale=en-us"
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "P!NK: Summer Carnival 2023",
+        "type": "event",
+        "id": "G5vVZ9pntZouz",
+        "test": false,
+        "url": "https://www.ticketmaster.com/pnk-summer-carnival-2023-queens-new-york-08-03-2023/event/1D005D6AA9011378",
+        "locale": "en-us",
+        "images": [
+          {
+            "ratio": "3_2",
+            "url": "https://s1.ticketm.net/dam/a/4c8/cee4224d-ed9f-4267-81a4-61be2a1f44c8_ARTIST_PAGE_3_2.jpg",
+            "width": 305,
+            "height": 203,
+            "fallback": false
+          },
+          {
+            "ratio": "16_9",
+            "url": "https://s1.ticketm.net/dam/a/4c8/cee4224d-ed9f-4267-81a4-61be2a1f44c8_RECOMENDATION_16_9.jpg",
+            "width": 100,
+            "height": 56,
+            "fallback": false
+          },
+          {
+            "ratio": "16_9",
+            "url": "https://s1.ticketm.net/dam/a/4c8/cee4224d-ed9f-4267-81a4-61be2a1f44c8_SOURCE",
+            "width": 2426,
+            "height": 1365,
+            "fallback": false
+          },
+          {
+            "ratio": "16_9",
+            "url": "https://s1.ticketm.net/dam/a/4c8/cee4224d-ed9f-4267-81a4-61be2a1f44c8_EVENT_DETAIL_PAGE_16_9.jpg",
+            "width": 205,
+            "height": 115,
+            "fallback": false
+          },
+          {
+            "ratio": "16_9",
+            "url": "https://s1.ticketm.net/dam/a/4c8/cee4224d-ed9f-4267-81a4-61be2a1f44c8_TABLET_LANDSCAPE_16_9.jpg",
+            "width": 1024,
+            "height": 576,
+            "fallback": false
+          },
+          {
+            "ratio": "3_2",
+            "url": "https://s1.ticketm.net/dam/a/4c8/cee4224d-ed9f-4267-81a4-61be2a1f44c8_RETINA_PORTRAIT_3_2.jpg",
+            "width": 640,
+            "height": 427,
+            "fallback": false
+          },
+          {
+            "ratio": "4_3",
+            "url": "https://s1.ticketm.net/dam/a/4c8/cee4224d-ed9f-4267-81a4-61be2a1f44c8_CUSTOM.jpg",
+            "width": 305,
+            "height": 225,
+            "fallback": false
+          },
+          {
+            "ratio": "16_9",
+            "url": "https://s1.ticketm.net/dam/a/4c8/cee4224d-ed9f-4267-81a4-61be2a1f44c8_RETINA_PORTRAIT_16_9.jpg",
+            "width": 640,
+            "height": 360,
+            "fallback": false
+          },
+          {
+            "ratio": "16_9",
+            "url": "https://s1.ticketm.net/dam/a/4c8/cee4224d-ed9f-4267-81a4-61be2a1f44c8_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+            "width": 2048,
+            "height": 1152,
+            "fallback": false
+          },
+          {
+            "ratio": "3_2",
+            "url": "https://s1.ticketm.net/dam/a/4c8/cee4224d-ed9f-4267-81a4-61be2a1f44c8_TABLET_LANDSCAPE_3_2.jpg",
+            "width": 1024,
+            "height": 683,
+            "fallback": false
+          },
+          {
+            "ratio": "16_9",
+            "url": "https://s1.ticketm.net/dam/a/4c8/cee4224d-ed9f-4267-81a4-61be2a1f44c8_RETINA_LANDSCAPE_16_9.jpg",
+            "width": 1136,
+            "height": 639,
+            "fallback": false
+          }
+        ],
+        "distance": 9.01,
+        "units": "MILES",
+        "sales": {
+          "public": {
+            "startDateTime": "2022-11-21T15:00:00Z",
+            "startTBD": false,
+            "startTBA": false,
+            "endDateTime": "2023-08-04T01:00:00Z"
+          },
+          "presales": [
+            {
+              "startDateTime": "2022-11-16T15:00:00Z",
+              "endDateTime": "2022-11-21T04:00:00Z",
+              "name": "Citi\u00ae Cardmember Presale"
+            },
+            {
+              "startDateTime": "2022-11-16T15:00:00Z",
+              "endDateTime": "2022-11-21T04:00:00Z",
+              "name": "VIP Package Presale"
+            },
+            {
+              "startDateTime": "2022-11-19T15:00:00Z",
+              "endDateTime": "2022-11-21T04:00:00Z",
+              "name": "Brandi Carlile Fan Club Presale"
+            },
+            {
+              "startDateTime": "2022-11-17T17:00:00Z",
+              "endDateTime": "2022-11-21T04:00:00Z",
+              "name": "Verizon Up Presale Tickets"
+            },
+            {
+              "startDateTime": "2022-11-19T15:00:00Z",
+              "endDateTime": "2022-11-21T04:00:00Z",
+              "name": "Live Nation Presale"
+            },
+            {
+              "startDateTime": "2022-11-21T15:00:00Z",
+              "endDateTime": "2023-07-27T21:00:00Z",
+              "name": "VIP Package Onsale"
+            },
+            {
+              "startDateTime": "2022-11-16T15:00:00Z",
+              "endDateTime": "2023-08-03T16:00:00Z",
+              "name": "Official Platinum"
+            },
+            {
+              "startDateTime": "2022-11-21T15:00:00Z",
+              "endDateTime": "2023-07-06T21:00:00Z",
+              "name": "Citi\u00ae Cardmember Preferred Tickets"
+            }
+          ]
+        },
+        "dates": {
+          "start": {
+            "localDate": "2023-08-03",
+            "localTime": "18:30:00",
+            "dateTime": "2023-08-03T22:30:00Z",
+            "dateTBD": false,
+            "dateTBA": false,
+            "timeTBA": false,
+            "noSpecificTime": false
+          },
+          "timezone": "America/New_York",
+          "status": {
+            "code": "onsale"
+          },
+          "spanMultipleDays": false
+        },
+        "classifications": [
+          {
+            "primary": true,
+            "segment": {
+              "id": "KZFzniwnSyZfZ7v7nJ",
+              "name": "Music"
+            },
+            "genre": {
+              "id": "KnvZfZ7vAeA",
+              "name": "Rock"
+            },
+            "subGenre": {
+              "id": "KZazBEonSMnZfZ7v6F1",
+              "name": "Pop"
+            },
+            "type": {
+              "id": "KZAyXgnZfZ7v7nI",
+              "name": "Undefined"
+            },
+            "subType": {
+              "id": "KZFzBErXgnZfZ7v7lJ",
+              "name": "Undefined"
+            },
+            "family": false
+          }
+        ],
+        "promoter": {
+          "id": "4018",
+          "name": "LIVE NATION - NO LN CONCERTS BRANDING",
+          "description": "LIVE NATION - NO LN CONCERTS BRANDING / NTL / USA"
+        },
+        "promoters": [
+          {
+            "id": "4018",
+            "name": "LIVE NATION - NO LN CONCERTS BRANDING",
+            "description": "LIVE NATION - NO LN CONCERTS BRANDING / NTL / USA"
+          }
+        ],
+        "priceRanges": [
+          {
+            "type": "standard",
+            "currency": "USD",
+            "min": 50.95,
+            "max": 404.95
+          }
+        ],
+        "seatmap": {
+          "staticUrl": "https://maps.ticketmaster.com/maps/geometry/3/event/1D005D6AA9011378/staticImage?type=png&systemId=HOST"
+        },
+        "accessibility": {
+          "ticketLimit": 4
+        },
+        "ticketLimit": {
+          "info": "There is an overall 4 ticket limit for this event."
+        },
+        "ageRestrictions": {
+          "legalAgeEnforced": false
+        },
+        "ticketing": {
+          "safeTix": {
+            "enabled": true
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "/discovery/v2/events/G5vVZ9pntZouz?locale=en-us"
+          },
+          "attractions": [
+            {
+              "href": "/discovery/v2/attractions/K8vZ9171Jo7?locale=en-us"
+            },
+            {
+              "href": "/discovery/v2/attractions/K8vZ9175z3V?locale=en-us"
+            },
+            {
+              "href": "/discovery/v2/attractions/K8vZ917ufxV?locale=en-us"
+            },
+            {
+              "href": "/discovery/v2/attractions/K8vZ9178Lb7?locale=en-us"
+            }
+          ],
+          "venues": [
+            {
+              "href": "/discovery/v2/venues/KovZpZAalvtA?locale=en-us"
+            }
+          ]
+        },
+        "_embedded": {
+          "venues": [
+            {
+              "name": "Citi Field",
+              "type": "venue",
+              "id": "KovZpZAalvtA",
+              "test": false,
+              "url": "https://www.ticketmaster.com/citi-field-tickets-queens/venue/237674",
+              "locale": "en-us",
+              "distance": 9.01,
+              "units": "MILES",
+              "postalCode": "11368",
+              "timezone": "America/New_York",
+              "city": {
+                "name": "Queens"
+              },
+              "state": {
+                "name": "New York",
+                "stateCode": "NY"
+              },
+              "country": {
+                "name": "United States Of America",
+                "countryCode": "US"
+              },
+              "address": {
+                "line1": "41 Seaver Way"
+              },
+              "location": {
+                "longitude": "-73.844599",
+                "latitude": "40.758005"
+              },
+              "markets": [
+                {
+                  "name": "New York/Tri-State Area",
+                  "id": "35"
+                },
+                {
+                  "name": "Northern New Jersey",
+                  "id": "55"
+                },
+                {
+                  "name": "Connecticut",
+                  "id": "124"
+                }
+              ],
+              "dmas": [
+                {
+                  "id": 296
+                },
+                {
+                  "id": 345
+                },
+                {
+                  "id": 422
+                }
+              ],
+              "upcomingEvents": {
+                "_total": 77,
+                "tmr": 67,
+                "ticketmaster": 10,
+                "_filtered": 0
+              },
+              "_links": {
+                "self": {
+                  "href": "/discovery/v2/venues/KovZpZAalvtA?locale=en-us"
+                }
+              }
+            }
+          ],
+          "attractions": [
+            {
+              "name": "P!NK",
+              "type": "attraction",
+              "id": "K8vZ9171Jo7",
+              "test": false,
+              "url": "https://www.ticketmaster.com/pnk-tickets/artist/718655",
+              "locale": "en-us",
+              "externalLinks": {
+                "youtube": [
+                  {
+                    "url": "https://www.youtube.com/user/PinkVideoVault"
+                  },
+                  {
+                    "url": "https://www.youtube.com/user/PinkVEVO"
+                  }
+                ],
+                "twitter": [
+                  {
+                    "url": "https://twitter.com/Pink"
+                  }
+                ],
+                "itunes": [
+                  {
+                    "url": "https://music.apple.com/us/artist/p-nk/4488522"
+                  }
+                ],
+                "lastfm": [
+                  {
+                    "url": "http://www.last.fm/music/P!nk"
+                  }
+                ],
+                "wiki": [
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Pink_(singer)"
+                  }
+                ],
+                "facebook": [
+                  {
+                    "url": "https://www.facebook.com/pink"
+                  }
+                ],
+                "spotify": [
+                  {
+                    "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+                  }
+                ],
+                "musicbrainz": [
+                  {
+                    "id": "f4d5cc07-3bc9-4836-9b15-88a08359bc63"
+                  }
+                ],
+                "instagram": [
+                  {
+                    "url": "https://www.instagram.com/pink/"
+                  }
+                ],
+                "homepage": [
+                  {
+                    "url": "http://www.pinkspage.com/"
+                  }
+                ]
+              },
+              "aliases": ["p!nk", "pink"],
+              "images": [
+                {
+                  "ratio": "3_2",
+                  "url": "https://s1.ticketm.net/dam/a/4c8/cee4224d-ed9f-4267-81a4-61be2a1f44c8_ARTIST_PAGE_3_2.jpg",
+                  "width": 305,
+                  "height": 203,
+                  "fallback": false
+                },
+                {
+                  "ratio": "16_9",
+                  "url": "https://s1.ticketm.net/dam/a/4c8/cee4224d-ed9f-4267-81a4-61be2a1f44c8_RECOMENDATION_16_9.jpg",
+                  "width": 100,
+                  "height": 56,
+                  "fallback": false
+                },
+                {
+                  "ratio": "16_9",
+                  "url": "https://s1.ticketm.net/dam/a/4c8/cee4224d-ed9f-4267-81a4-61be2a1f44c8_SOURCE",
+                  "width": 2426,
+                  "height": 1365,
+                  "fallback": false
+                },
+                {
+                  "ratio": "16_9",
+                  "url": "https://s1.ticketm.net/dam/a/4c8/cee4224d-ed9f-4267-81a4-61be2a1f44c8_EVENT_DETAIL_PAGE_16_9.jpg",
+                  "width": 205,
+                  "height": 115,
+                  "fallback": false
+                },
+                {
+                  "ratio": "16_9",
+                  "url": "https://s1.ticketm.net/dam/a/4c8/cee4224d-ed9f-4267-81a4-61be2a1f44c8_TABLET_LANDSCAPE_16_9.jpg",
+                  "width": 1024,
+                  "height": 576,
+                  "fallback": false
+                },
+                {
+                  "ratio": "3_2",
+                  "url": "https://s1.ticketm.net/dam/a/4c8/cee4224d-ed9f-4267-81a4-61be2a1f44c8_RETINA_PORTRAIT_3_2.jpg",
+                  "width": 640,
+                  "height": 427,
+                  "fallback": false
+                },
+                {
+                  "ratio": "4_3",
+                  "url": "https://s1.ticketm.net/dam/a/4c8/cee4224d-ed9f-4267-81a4-61be2a1f44c8_CUSTOM.jpg",
+                  "width": 305,
+                  "height": 225,
+                  "fallback": false
+                },
+                {
+                  "ratio": "16_9",
+                  "url": "https://s1.ticketm.net/dam/a/4c8/cee4224d-ed9f-4267-81a4-61be2a1f44c8_RETINA_PORTRAIT_16_9.jpg",
+                  "width": 640,
+                  "height": 360,
+                  "fallback": false
+                },
+                {
+                  "ratio": "16_9",
+                  "url": "https://s1.ticketm.net/dam/a/4c8/cee4224d-ed9f-4267-81a4-61be2a1f44c8_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+                  "width": 2048,
+                  "height": 1152,
+                  "fallback": false
+                },
+                {
+                  "ratio": "3_2",
+                  "url": "https://s1.ticketm.net/dam/a/4c8/cee4224d-ed9f-4267-81a4-61be2a1f44c8_TABLET_LANDSCAPE_3_2.jpg",
+                  "width": 1024,
+                  "height": 683,
+                  "fallback": false
+                },
+                {
+                  "ratio": "16_9",
+                  "url": "https://s1.ticketm.net/dam/a/4c8/cee4224d-ed9f-4267-81a4-61be2a1f44c8_RETINA_LANDSCAPE_16_9.jpg",
+                  "width": 1136,
+                  "height": 639,
+                  "fallback": false
+                }
+              ],
+              "classifications": [
+                {
+                  "primary": true,
+                  "segment": {
+                    "id": "KZFzniwnSyZfZ7v7nJ",
+                    "name": "Music"
+                  },
+                  "genre": {
+                    "id": "KnvZfZ7vAeA",
+                    "name": "Rock"
+                  },
+                  "subGenre": {
+                    "id": "KZazBEonSMnZfZ7v6F1",
+                    "name": "Pop"
+                  },
+                  "type": {
+                    "id": "KZAyXgnZfZ7v7la",
+                    "name": "Individual"
+                  },
+                  "subType": {
+                    "id": "KZFzBErXgnZfZ7vAd7",
+                    "name": "Musician"
+                  },
+                  "family": false
+                }
+              ],
+              "upcomingEvents": {
+                "_total": 76,
+                "mfx-nl": 2,
+                "tmr": 4,
+                "ticketmaster": 68,
+                "mfx-be": 1,
+                "_filtered": 0,
+                "mfx-pl": 1
+              },
+              "_links": {
+                "self": {
+                  "href": "/discovery/v2/attractions/K8vZ9171Jo7?locale=en-us"
+                }
+              }
+            },
+            {
+              "name": "Brandi Carlile",
+              "type": "attraction",
+              "id": "K8vZ9175z3V",
+              "test": false,
+              "url": "https://www.ticketmaster.com/brandi-carlile-tickets/artist/974048",
+              "locale": "en-us",
+              "externalLinks": {
+                "youtube": [
+                  {
+                    "url": "https://www.youtube.com/user/BrandiCarlile"
+                  }
+                ],
+                "twitter": [
+                  {
+                    "url": "https://twitter.com/brandicarlile"
+                  }
+                ],
+                "itunes": [
+                  {
+                    "url": "https://music.apple.com/us/artist/brandi-carlile/64387579"
+                  }
+                ],
+                "lastfm": [
+                  {
+                    "url": "http://www.last.fm/music/Brandi+Carlile"
+                  }
+                ],
+                "facebook": [
+                  {
+                    "url": "https://www.facebook.com/brandicarlile"
+                  }
+                ],
+                "wiki": [
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Brandi_Carlile"
+                  }
+                ],
+                "spotify": [
+                  {
+                    "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej?autoplay=true"
+                  }
+                ],
+                "musicbrainz": [
+                  {
+                    "id": "baf05baf-69fb-47dd-93c2-033536b8c385"
+                  }
+                ],
+                "instagram": [
+                  {
+                    "url": "https://www.instagram.com/brandicarlile/"
+                  }
+                ],
+                "homepage": [
+                  {
+                    "url": "http://brandicarlile.com/"
+                  }
+                ]
+              },
+              "images": [
+                {
+                  "ratio": "16_9",
+                  "url": "https://s1.ticketm.net/dam/a/4bd/bec0166a-437c-40bc-8062-14a4b23eb4bd_RECOMENDATION_16_9.jpg",
+                  "width": 100,
+                  "height": 56,
+                  "fallback": false
+                },
+                {
+                  "ratio": "4_3",
+                  "url": "https://s1.ticketm.net/dam/a/4bd/bec0166a-437c-40bc-8062-14a4b23eb4bd_CUSTOM.jpg",
+                  "width": 305,
+                  "height": 225,
+                  "fallback": false
+                },
+                {
+                  "ratio": "16_9",
+                  "url": "https://s1.ticketm.net/dam/a/4bd/bec0166a-437c-40bc-8062-14a4b23eb4bd_EVENT_DETAIL_PAGE_16_9.jpg",
+                  "width": 205,
+                  "height": 115,
+                  "fallback": false
+                },
+                {
+                  "ratio": "3_2",
+                  "url": "https://s1.ticketm.net/dam/a/4bd/bec0166a-437c-40bc-8062-14a4b23eb4bd_RETINA_PORTRAIT_3_2.jpg",
+                  "width": 640,
+                  "height": 427,
+                  "fallback": false
+                },
+                {
+                  "ratio": "16_9",
+                  "url": "https://s1.ticketm.net/dam/a/4bd/bec0166a-437c-40bc-8062-14a4b23eb4bd_TABLET_LANDSCAPE_16_9.jpg",
+                  "width": 1024,
+                  "height": 576,
+                  "fallback": false
+                },
+                {
+                  "ratio": "3_2",
+                  "url": "https://s1.ticketm.net/dam/a/4bd/bec0166a-437c-40bc-8062-14a4b23eb4bd_TABLET_LANDSCAPE_3_2.jpg",
+                  "width": 1024,
+                  "height": 683,
+                  "fallback": false
+                },
+                {
+                  "ratio": "16_9",
+                  "url": "https://s1.ticketm.net/dam/a/4bd/bec0166a-437c-40bc-8062-14a4b23eb4bd_RETINA_LANDSCAPE_16_9.jpg",
+                  "width": 1136,
+                  "height": 639,
+                  "fallback": false
+                },
+                {
+                  "ratio": "16_9",
+                  "url": "https://s1.ticketm.net/dam/a/4bd/bec0166a-437c-40bc-8062-14a4b23eb4bd_SOURCE",
+                  "width": 2426,
+                  "height": 1365,
+                  "fallback": false
+                },
+                {
+                  "ratio": "16_9",
+                  "url": "https://s1.ticketm.net/dam/a/4bd/bec0166a-437c-40bc-8062-14a4b23eb4bd_RETINA_PORTRAIT_16_9.jpg",
+                  "width": 640,
+                  "height": 360,
+                  "fallback": false
+                },
+                {
+                  "ratio": "16_9",
+                  "url": "https://s1.ticketm.net/dam/a/4bd/bec0166a-437c-40bc-8062-14a4b23eb4bd_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+                  "width": 2048,
+                  "height": 1152,
+                  "fallback": false
+                },
+                {
+                  "ratio": "3_2",
+                  "url": "https://s1.ticketm.net/dam/a/4bd/bec0166a-437c-40bc-8062-14a4b23eb4bd_ARTIST_PAGE_3_2.jpg",
+                  "width": 305,
+                  "height": 203,
+                  "fallback": false
+                }
+              ],
+              "classifications": [
+                {
+                  "primary": true,
+                  "segment": {
+                    "id": "KZFzniwnSyZfZ7v7nJ",
+                    "name": "Music"
+                  },
+                  "genre": {
+                    "id": "KnvZfZ7vAeA",
+                    "name": "Rock"
+                  },
+                  "subGenre": {
+                    "id": "KZazBEonSMnZfZ7v6dt",
+                    "name": "Alternative Rock"
+                  },
+                  "type": {
+                    "id": "KZAyXgnZfZ7v7nI",
+                    "name": "Undefined"
+                  },
+                  "subType": {
+                    "id": "KZFzBErXgnZfZ7v7lJ",
+                    "name": "Undefined"
+                  },
+                  "family": false
+                }
+              ],
+              "upcomingEvents": {
+                "_total": 36,
+                "tmr": 8,
+                "ticketmaster": 28,
+                "_filtered": 0
+              },
+              "_links": {
+                "self": {
+                  "href": "/discovery/v2/attractions/K8vZ9175z3V?locale=en-us"
+                }
+              }
+            },
+            {
+              "name": "Grouplove",
+              "type": "attraction",
+              "id": "K8vZ917ufxV",
+              "test": false,
+              "url": "https://www.ticketmaster.com/grouplove-tickets/artist/1504793",
+              "locale": "en-us",
+              "externalLinks": {
+                "youtube": [
+                  {
+                    "url": "https://www.youtube.com/user/grouplovemusic"
+                  }
+                ],
+                "twitter": [
+                  {
+                    "url": "https://twitter.com/GROUPLOVE"
+                  }
+                ],
+                "itunes": [
+                  {
+                    "url": "https://music.apple.com/us/artist/grouplove/410732500?uo=4&app=music"
+                  }
+                ],
+                "lastfm": [
+                  {
+                    "url": "http://www.last.fm/music/Grouplove"
+                  }
+                ],
+                "facebook": [
+                  {
+                    "url": "https://www.facebook.com/GROUPLOVE"
+                  }
+                ],
+                "wiki": [
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Grouplove"
+                  }
+                ],
+                "spotify": [
+                  {
+                    "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
+                  }
+                ],
+                "musicbrainz": [
+                  {
+                    "id": "d8e41375-bd8d-4e39-9da7-f0c171e97086"
+                  }
+                ],
+                "instagram": [
+                  {
+                    "url": "https://www.instagram.com/grouplove/"
+                  }
+                ],
+                "homepage": [
+                  {
+                    "url": "http://www.grouplovemusic.com/"
+                  }
+                ]
+              },
+              "images": [
+                {
+                  "ratio": "16_9",
+                  "url": "https://s1.ticketm.net/dam/a/d3e/8cd05044-8512-42eb-b307-0e1aa783dd3e_1250691_RETINA_PORTRAIT_16_9.jpg",
+                  "width": 640,
+                  "height": 360,
+                  "fallback": false
+                },
+                {
+                  "ratio": "3_2",
+                  "url": "https://s1.ticketm.net/dam/a/d3e/8cd05044-8512-42eb-b307-0e1aa783dd3e_1250691_ARTIST_PAGE_3_2.jpg",
+                  "width": 305,
+                  "height": 203,
+                  "fallback": false
+                },
+                {
+                  "ratio": "16_9",
+                  "url": "https://s1.ticketm.net/dam/a/d3e/8cd05044-8512-42eb-b307-0e1aa783dd3e_1250691_EVENT_DETAIL_PAGE_16_9.jpg",
+                  "width": 205,
+                  "height": 115,
+                  "fallback": false
+                },
+                {
+                  "ratio": "16_9",
+                  "url": "https://s1.ticketm.net/dam/a/d3e/8cd05044-8512-42eb-b307-0e1aa783dd3e_1250691_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+                  "width": 2048,
+                  "height": 1152,
+                  "fallback": false
+                },
+                {
+                  "ratio": "16_9",
+                  "url": "https://s1.ticketm.net/dam/a/d3e/8cd05044-8512-42eb-b307-0e1aa783dd3e_1250691_RECOMENDATION_16_9.jpg",
+                  "width": 100,
+                  "height": 56,
+                  "fallback": false
+                },
+                {
+                  "ratio": "3_2",
+                  "url": "https://s1.ticketm.net/dam/a/d3e/8cd05044-8512-42eb-b307-0e1aa783dd3e_1250691_TABLET_LANDSCAPE_3_2.jpg",
+                  "width": 1024,
+                  "height": 683,
+                  "fallback": false
+                },
+                {
+                  "ratio": "3_2",
+                  "url": "https://s1.ticketm.net/dam/a/d3e/8cd05044-8512-42eb-b307-0e1aa783dd3e_1250691_RETINA_PORTRAIT_3_2.jpg",
+                  "width": 640,
+                  "height": 427,
+                  "fallback": false
+                },
+                {
+                  "ratio": "4_3",
+                  "url": "https://s1.ticketm.net/dam/a/d3e/8cd05044-8512-42eb-b307-0e1aa783dd3e_1250691_CUSTOM.jpg",
+                  "width": 305,
+                  "height": 225,
+                  "fallback": false
+                },
+                {
+                  "ratio": "16_9",
+                  "url": "https://s1.ticketm.net/dam/a/d3e/8cd05044-8512-42eb-b307-0e1aa783dd3e_1250691_RETINA_LANDSCAPE_16_9.jpg",
+                  "width": 1136,
+                  "height": 639,
+                  "fallback": false
+                },
+                {
+                  "ratio": "16_9",
+                  "url": "https://s1.ticketm.net/dam/a/d3e/8cd05044-8512-42eb-b307-0e1aa783dd3e_1250691_TABLET_LANDSCAPE_16_9.jpg",
+                  "width": 1024,
+                  "height": 576,
+                  "fallback": false
+                }
+              ],
+              "classifications": [
+                {
+                  "primary": true,
+                  "segment": {
+                    "id": "KZFzniwnSyZfZ7v7nJ",
+                    "name": "Music"
+                  },
+                  "genre": {
+                    "id": "KnvZfZ7vAeA",
+                    "name": "Rock"
+                  },
+                  "subGenre": {
+                    "id": "KZazBEonSMnZfZ7v6dt",
+                    "name": "Alternative Rock"
+                  },
+                  "type": {
+                    "id": "KZAyXgnZfZ7v7nI",
+                    "name": "Undefined"
+                  },
+                  "subType": {
+                    "id": "KZFzBErXgnZfZ7v7lJ",
+                    "name": "Undefined"
+                  },
+                  "family": false
+                }
+              ],
+              "upcomingEvents": {
+                "_total": 51,
+                "tmr": 3,
+                "ticketmaster": 48,
+                "_filtered": 0
+              },
+              "_links": {
+                "self": {
+                  "href": "/discovery/v2/attractions/K8vZ917ufxV?locale=en-us"
+                }
+              }
+            },
+            {
+              "name": "KidCutUp",
+              "type": "attraction",
+              "id": "K8vZ9178Lb7",
+              "test": false,
+              "url": "https://www.ticketmaster.com/kidcutup-tickets/artist/1797766",
+              "locale": "en-us",
+              "externalLinks": {
+                "facebook": [
+                  {
+                    "url": "https://www.facebook.com/kidcutup"
+                  }
+                ],
+                "musicbrainz": [
+                  {
+                    "id": "66e92720-60a4-4f73-b263-2e31213b25f8"
+                  }
+                ],
+                "homepage": [
+                  {
+                    "url": "http://kidcutup.com/"
+                  }
+                ]
+              },
+              "images": [
+                {
+                  "ratio": "16_9",
+                  "url": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_EVENT_DETAIL_PAGE_16_9.jpg",
+                  "width": 205,
+                  "height": 115,
+                  "fallback": true
+                },
+                {
+                  "ratio": "16_9",
+                  "url": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_RETINA_PORTRAIT_16_9.jpg",
+                  "width": 640,
+                  "height": 360,
+                  "fallback": true
+                },
+                {
+                  "ratio": "3_2",
+                  "url": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_ARTIST_PAGE_3_2.jpg",
+                  "width": 305,
+                  "height": 203,
+                  "fallback": true
+                },
+                {
+                  "ratio": "4_3",
+                  "url": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_CUSTOM.jpg",
+                  "width": 305,
+                  "height": 225,
+                  "fallback": true
+                },
+                {
+                  "ratio": "16_9",
+                  "url": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+                  "width": 2048,
+                  "height": 1152,
+                  "fallback": true
+                },
+                {
+                  "ratio": "16_9",
+                  "url": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_RECOMENDATION_16_9.jpg",
+                  "width": 100,
+                  "height": 56,
+                  "fallback": true
+                },
+                {
+                  "ratio": "16_9",
+                  "url": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_RETINA_LANDSCAPE_16_9.jpg",
+                  "width": 1136,
+                  "height": 639,
+                  "fallback": true
+                },
+                {
+                  "ratio": "3_2",
+                  "url": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_RETINA_PORTRAIT_3_2.jpg",
+                  "width": 640,
+                  "height": 427,
+                  "fallback": true
+                },
+                {
+                  "ratio": "16_9",
+                  "url": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_TABLET_LANDSCAPE_16_9.jpg",
+                  "width": 1024,
+                  "height": 576,
+                  "fallback": true
+                },
+                {
+                  "ratio": "3_2",
+                  "url": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_TABLET_LANDSCAPE_3_2.jpg",
+                  "width": 1024,
+                  "height": 683,
+                  "fallback": true
+                }
+              ],
+              "classifications": [
+                {
+                  "primary": true,
+                  "segment": {
+                    "id": "KZFzniwnSyZfZ7v7nJ",
+                    "name": "Music"
+                  },
+                  "genre": {
+                    "id": "KnvZfZ7vAvF",
+                    "name": "Dance/Electronic"
+                  },
+                  "subGenre": {
+                    "id": "KZazBEonSMnZfZ7vAJ1",
+                    "name": "Club Dance"
+                  },
+                  "type": {
+                    "id": "KZAyXgnZfZ7v7nI",
+                    "name": "Undefined"
+                  },
+                  "subType": {
+                    "id": "KZFzBErXgnZfZ7v7lJ",
+                    "name": "Undefined"
+                  },
+                  "family": false
+                }
+              ],
+              "upcomingEvents": {
+                "_total": 32,
+                "ticketmaster": 32,
+                "_filtered": 0
+              },
+              "_links": {
+                "self": {
+                  "href": "/discovery/v2/attractions/K8vZ9178Lb7?locale=en-us"
+                }
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "_links": {
+    "self": {
+      "href": "/discovery/v2/events?size=10&classificationName=Music&latlong=40.7127753%2C-74.0059728&radius=10&keyword=P%21NK"
+    }
+  },
+  "page": {
+    "size": 10,
+    "totalElements": 3,
+    "totalPages": 1,
+    "number": 0
+  }
+}

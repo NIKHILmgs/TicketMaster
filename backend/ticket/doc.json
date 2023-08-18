@@ -1,0 +1,363 @@
+{
+  "_embedded": {
+    "events": [
+      {
+        "name": "West Conf Semis Game 4: Nuggets at Suns",
+        "type": "event",
+        "id": "G5v0Z9JD6ndYG",
+        "test": false,
+        "url": "https://www.ticketmaster.com/west-conf-semis-game-4-nuggets-phoenix-arizona-05-07-2023/event/19005E6EC7A83C0C",
+        "locale": "en-us",
+        "images": [
+          {
+            "ratio": "4_3",
+            "url": "https://s1.ticketm.net/dam/a/c62/0636ff21-e369-4b8c-bee4-214ea0a81c62_1339761_CUSTOM.jpg",
+            "width": 305,
+            "height": 225,
+            "fallback": false
+          },
+          {
+            "ratio": "16_9",
+            "url": "https://s1.ticketm.net/dam/a/c62/0636ff21-e369-4b8c-bee4-214ea0a81c62_1339761_RETINA_PORTRAIT_16_9.jpg",
+            "width": 640,
+            "height": 360,
+            "fallback": false
+          },
+          {
+            "ratio": "16_9",
+            "url": "https://s1.ticketm.net/dam/a/c62/0636ff21-e369-4b8c-bee4-214ea0a81c62_1339761_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+            "width": 2048,
+            "height": 1152,
+            "fallback": false
+          },
+          {
+            "ratio": "16_9",
+            "url": "https://s1.ticketm.net/dam/a/c62/0636ff21-e369-4b8c-bee4-214ea0a81c62_1339761_EVENT_DETAIL_PAGE_16_9.jpg",
+            "width": 205,
+            "height": 115,
+            "fallback": false
+          },
+          {
+            "ratio": "3_2",
+            "url": "https://s1.ticketm.net/dam/a/c62/0636ff21-e369-4b8c-bee4-214ea0a81c62_1339761_ARTIST_PAGE_3_2.jpg",
+            "width": 305,
+            "height": 203,
+            "fallback": false
+          },
+          {
+            "ratio": "16_9",
+            "url": "https://s1.ticketm.net/dam/a/c62/0636ff21-e369-4b8c-bee4-214ea0a81c62_1339761_TABLET_LANDSCAPE_16_9.jpg",
+            "width": 1024,
+            "height": 576,
+            "fallback": false
+          },
+          {
+            "ratio": "3_2",
+            "url": "https://s1.ticketm.net/dam/a/c62/0636ff21-e369-4b8c-bee4-214ea0a81c62_1339761_RETINA_PORTRAIT_3_2.jpg",
+            "width": 640,
+            "height": 427,
+            "fallback": false
+          },
+          {
+            "ratio": "3_2",
+            "url": "https://s1.ticketm.net/dam/a/c62/0636ff21-e369-4b8c-bee4-214ea0a81c62_1339761_TABLET_LANDSCAPE_3_2.jpg",
+            "width": 1024,
+            "height": 683,
+            "fallback": false
+          },
+          {
+            "ratio": "16_9",
+            "url": "https://s1.ticketm.net/dam/a/c62/0636ff21-e369-4b8c-bee4-214ea0a81c62_1339761_RETINA_LANDSCAPE_16_9.jpg",
+            "width": 1136,
+            "height": 639,
+            "fallback": false
+          },
+          {
+            "ratio": "16_9",
+            "url": "https://s1.ticketm.net/dam/a/c62/0636ff21-e369-4b8c-bee4-214ea0a81c62_1339761_RECOMENDATION_16_9.jpg",
+            "width": 100,
+            "height": 56,
+            "fallback": false
+          }
+        ],
+        "sales": {
+          "public": {
+            "startDateTime": "2023-04-26T19:00:00Z",
+            "startTBD": false,
+            "startTBA": false,
+            "endDateTime": "2023-05-08T02:00:00Z"
+          },
+          "presales": [
+            {
+              "startDateTime": "2023-04-26T17:30:00Z",
+              "endDateTime": "2023-04-26T19:00:00Z",
+              "name": "SMS Suns Presale"
+            }
+          ]
+        },
+        "dates": {
+          "start": {
+            "localDate": "2023-05-07",
+            "localTime": "17:00:00",
+            "dateTime": "2023-05-08T00:00:00Z",
+            "dateTBD": false,
+            "dateTBA": false,
+            "timeTBA": false,
+            "noSpecificTime": false
+          },
+          "timezone": "America/Phoenix",
+          "status": { "code": "onsale" },
+          "spanMultipleDays": false
+        },
+        "classifications": [
+          {
+            "primary": true,
+            "segment": { "id": "KZFzniwnSyZfZ7v7nE", "name": "Sports" },
+            "genre": { "id": "KnvZfZ7vAde", "name": "Basketball" },
+            "subGenre": { "id": "KZazBEonSMnZfZ7vFJA", "name": "NBA" },
+            "type": { "id": "KZAyXgnZfZ7v7l1", "name": "Group" },
+            "subType": { "id": "KZFzBErXgnZfZ7vA7d", "name": "Team" },
+            "family": false
+          }
+        ],
+        "promoter": {
+          "id": "696",
+          "name": "NBA PLAYOFFS & FINALS",
+          "description": "NBA PLAYOFFS & FINALS / NTL / USA"
+        },
+        "promoters": [
+          {
+            "id": "696",
+            "name": "NBA PLAYOFFS & FINALS",
+            "description": "NBA PLAYOFFS & FINALS / NTL / USA"
+          }
+        ],
+        "info": "Footprint Center is now a cashless environment. Please plan on using Visa, Mastercard, American Express or Discover during your visit. Don't have a credit/debit card? Convert cash into a preloaded Mastercard by visiting one of our reverse ATMs located near the Ticket Office or Section 218! When you purchase a ticket to a Footprint Center event, you can ride the Valley Metro Light Rail at no cost for four (4) hours prior to the event through the end of the transit day. With an increased focus on secure, contactless entry, mobile tickets will now be required. All tickets will be delivered electronically with no exceptions, therefore will call is no longer available. All tickets are available via the Ticketmaster app or the Suns-Mercury-Footprint Center app. There is a 6 ticket limit. To purchase more than 6 tickets, please call 602.379.SUNS to find out about group tickets.",
+        "pleaseNote": "Footprint Center is now a cashless environment. Please plan on using Visa, Mastercard, American Express or Discover during your visit. Don't have a credit/debit card? Convert cash into a preloaded Mastercard by visiting one of our reverse ATMs located near the Ticket Office or Section 218! When you purchase a ticket to a Footprint Center event, you can ride the Valley Metro Light Rail at no cost for four (4) hours prior to the event through the end of the transit day. With an increased focus on secure, contactless entry, mobile tickets will now be required. All tickets will be delivered electronically with no exceptions, therefore will call is no longer available. All tickets are available via the Ticketmaster app or the Suns-Mercury-Footprint Center app. There is a 6 ticket limit. To purchase more than 6 tickets, please call 602.379.SUNS to find out about group tickets.",
+        "priceRanges": [
+          { "type": "standard", "currency": "USD", "min": 139.0, "max": 6750.0 }
+        ],
+        "seatmap": {
+          "staticUrl": "https://maps.ticketmaster.com/maps/geometry/3/event/19005E6EC7A83C0C/staticImage?type=png&systemId=HOST"
+        },
+        "accessibility": { "ticketLimit": 4 },
+        "ticketLimit": {
+          "info": "There is an overall 6 ticket limit for this event."
+        },
+        "ageRestrictions": { "legalAgeEnforced": false },
+        "ticketing": { "safeTix": { "enabled": true } },
+        "_links": {
+          "self": { "href": "/discovery/v2/events/G5v0Z9JD6ndYG?locale=en-us" },
+          "attractions": [
+            { "href": "/discovery/v2/attractions/K8vZ9171oZf?locale=en-us" }
+          ],
+          "venues": [
+            { "href": "/discovery/v2/venues/KovZpZAE617A?locale=en-us" }
+          ]
+        },
+        "_embedded": {
+          "venues": [
+            {
+              "name": "Footprint Center",
+              "type": "venue",
+              "id": "KovZpZAE617A",
+              "test": false,
+              "url": "https://www.ticketmaster.com/footprint-center-tickets-phoenix/venue/205079",
+              "locale": "en-us",
+              "images": [
+                {
+                  "ratio": "16_9",
+                  "url": "https://s1.ticketm.net/dbimages/22218v.jpg",
+                  "width": 205,
+                  "height": 115,
+                  "fallback": false
+                }
+              ],
+              "postalCode": "85004",
+              "timezone": "America/Phoenix",
+              "city": { "name": "Phoenix" },
+              "state": { "name": "Arizona", "stateCode": "AZ" },
+              "country": {
+                "name": "United States Of America",
+                "countryCode": "US"
+              },
+              "address": { "line1": "201 East Jefferson Street" },
+              "location": {
+                "longitude": "-112.071313",
+                "latitude": "33.445899"
+              },
+              "markets": [{ "name": "Phoenix and Tucson", "id": "36" }],
+              "dmas": [{ "id": 359 }, { "id": 402 }, { "id": 420 }],
+              "boxOfficeInfo": {
+                "phoneNumberDetail": "Northwest side of Footprint Center in the Pavilion.(602)379-7800 Suns Game Nights call (602)379-7867",
+                "openHoursDetail": "Monday - Friday: 10:00am - 5:00pm Saturday - Sunday: closed except on event days and special on sales.",
+                "acceptedPaymentDetail": "The Footprint Center accepts the following methods of payment at the Box Office:VISA MASTERCARD DISCOVER AMERICAN EXPRESS CASH, PHX ARENA NO LONGER ACCEPTS CHECKS",
+                "willCallDetail": "The WILL CALL windows open two hours prior to events and are located on the Northwest side of the building in the Pavilion. WILL CALL PICK-UP: The Footprint Center requires that customers picking up WILL CALL tickets furnish the following: 1) PICTURE IDENTIFICATION THAT MATCHES THE PICK-UP NAME 2) CONFIRMATION NUMBER THAT MATCHES THE CUSTOMER ACCOUNT ALTERNATE WILL CALL PICK-UP: If another person, other than the person ordering and paying for the tickets, is picking up a WILL CALL order, the ALTERNATE PICK-UP name MUST be on the account. To get the alternate pick-up name noted on the account, the original purchaser MUST contact Ticketmaster at (1-800-745-3000), ask for customer service to verify account information and request alternate pick-up."
+              },
+              "parkingDetail": "Adjacent parking structure at 1st and Madison. Many other parking lots and structures within a 10 minute walk of Footprint Center. Prices vary by event. Parking and Direction hotline (602)514-8472",
+              "accessibleSeatingDetail": "PHOENIX SUNS: To purchase Phoenix Suns tickets for people with disabilities, subject to availability, please call Footprint Center at (602)379-7867 or visit Footprint Center ticket office. Accessible tickets can also be purchased at all Ticketmaster locations, by calling (800)745-3000 or online at ticketmaster.com. ARIZONA RATTLERS: To purchase Arizona Rattlers tickets for people with disabilities, Subject to availability, please call Footprint Center at (602)379-7800 or visit the Footprint Center ticket office. Accessible tickets can also be purchased at all Ticketmaster locations, by calling (800)745-3000 or online at ticketmaster.com. PHOENIX MERCURY: To purchase Phoenix Mercury tickets for people with disabilities, subject to availability, please call Footprint Center at (602)252-9622 or visit the Footprint Center ticket office. Accessible tickets can also be purchased at all Ticketmaster locations, by calling (800)745-3000 or online at ticketmaster.com. ARENA CONCERTS AND OTHER EVENTS: To purchase concert or other event tickets for people with disabilities, subject to availability, please call Footprint Center at (602)379-7800 or visit Footprint Center ticket office. Accessible tickets can also be purchased at all Ticketmaster locations, by calling (800)745-3000 or online at ticketmaster.com.",
+              "generalInfo": {
+                "generalRule": "New security procedures have been implemented at Footprint Center. No backpacks or large purses will be allowed. Small purses and fanny packs will be subject to search. Every individual entering the arena will be subject to search. Every vehicle entering the building will be subject to search. Sealed water bottles (1 litre or smaller) allowed in building. No other outside concessions allowed. No pets other than \"assisting\" animals. Smoking in Facility: Footprint Center is a non-smoking facility. Smoking areas outside building are available, depending on event. NON professional cameras only (depending on event) No Laser Pointers allowed No Video Cameras allowed No Recorders allowed",
+                "childRule": "Please contact the Footprint Center ticket office at (602)379-7800, for information. Child policy Varies by event. Children age three (3) and above require a ticket for Phoenix Suns, Phoenix Mercury, and Arizona Rattlers games."
+              },
+              "upcomingEvents": {
+                "_total": 64,
+                "ticketmaster": 64,
+                "_filtered": 0
+              },
+              "_links": {
+                "self": {
+                  "href": "/discovery/v2/venues/KovZpZAE617A?locale=en-us"
+                }
+              }
+            }
+          ],
+          "attractions": [
+            {
+              "name": "Phoenix Suns",
+              "type": "attraction",
+              "id": "K8vZ9171oZf",
+              "test": false,
+              "url": "https://www.ticketmaster.com/phoenix-suns-tickets/artist/806004",
+              "locale": "en-us",
+              "externalLinks": {
+                "twitter": [{ "url": "https://twitter.com/Suns" }],
+                "wiki": [
+                  { "url": "https://en.wikipedia.org/wiki/Phoenix_Suns" }
+                ],
+                "facebook": [{ "url": "https://www.facebook.com/suns/" }],
+                "instagram": [{ "url": "https://www.instagram.com/suns/" }],
+                "homepage": [{ "url": "https://www.nba.com/suns/" }]
+              },
+              "aliases": [
+                "phoenix",
+                "suns",
+                "phoenix suns exchange",
+                "phoenix suns team exchange",
+                "phoenix suns season ticket holders",
+                "phoenix suns season tix holders",
+                "phoenix suns ticket exchange",
+                "suns exchange",
+                "suns season ticket holders",
+                "suns season tix holders",
+                "suns team exchange",
+                "suns ticket exchange"
+              ],
+              "images": [
+                {
+                  "ratio": "4_3",
+                  "url": "https://s1.ticketm.net/dam/a/c62/0636ff21-e369-4b8c-bee4-214ea0a81c62_1339761_CUSTOM.jpg",
+                  "width": 305,
+                  "height": 225,
+                  "fallback": false
+                },
+                {
+                  "ratio": "16_9",
+                  "url": "https://s1.ticketm.net/dam/a/c62/0636ff21-e369-4b8c-bee4-214ea0a81c62_1339761_RETINA_PORTRAIT_16_9.jpg",
+                  "width": 640,
+                  "height": 360,
+                  "fallback": false
+                },
+                {
+                  "ratio": "16_9",
+                  "url": "https://s1.ticketm.net/dam/a/c62/0636ff21-e369-4b8c-bee4-214ea0a81c62_1339761_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+                  "width": 2048,
+                  "height": 1152,
+                  "fallback": false
+                },
+                {
+                  "ratio": "16_9",
+                  "url": "https://s1.ticketm.net/dam/a/c62/0636ff21-e369-4b8c-bee4-214ea0a81c62_1339761_EVENT_DETAIL_PAGE_16_9.jpg",
+                  "width": 205,
+                  "height": 115,
+                  "fallback": false
+                },
+                {
+                  "ratio": "3_2",
+                  "url": "https://s1.ticketm.net/dam/a/c62/0636ff21-e369-4b8c-bee4-214ea0a81c62_1339761_ARTIST_PAGE_3_2.jpg",
+                  "width": 305,
+                  "height": 203,
+                  "fallback": false
+                },
+                {
+                  "ratio": "16_9",
+                  "url": "https://s1.ticketm.net/dam/a/c62/0636ff21-e369-4b8c-bee4-214ea0a81c62_1339761_TABLET_LANDSCAPE_16_9.jpg",
+                  "width": 1024,
+                  "height": 576,
+                  "fallback": false
+                },
+                {
+                  "ratio": "3_2",
+                  "url": "https://s1.ticketm.net/dam/a/c62/0636ff21-e369-4b8c-bee4-214ea0a81c62_1339761_RETINA_PORTRAIT_3_2.jpg",
+                  "width": 640,
+                  "height": 427,
+                  "fallback": false
+                },
+                {
+                  "ratio": "3_2",
+                  "url": "https://s1.ticketm.net/dam/a/c62/0636ff21-e369-4b8c-bee4-214ea0a81c62_1339761_TABLET_LANDSCAPE_3_2.jpg",
+                  "width": 1024,
+                  "height": 683,
+                  "fallback": false
+                },
+                {
+                  "ratio": "16_9",
+                  "url": "https://s1.ticketm.net/dam/a/c62/0636ff21-e369-4b8c-bee4-214ea0a81c62_1339761_RETINA_LANDSCAPE_16_9.jpg",
+                  "width": 1136,
+                  "height": 639,
+                  "fallback": false
+                },
+                {
+                  "ratio": "16_9",
+                  "url": "https://s1.ticketm.net/dam/a/c62/0636ff21-e369-4b8c-bee4-214ea0a81c62_1339761_RECOMENDATION_16_9.jpg",
+                  "width": 100,
+                  "height": 56,
+                  "fallback": false
+                }
+              ],
+              "classifications": [
+                {
+                  "primary": true,
+                  "segment": { "id": "KZFzniwnSyZfZ7v7nE", "name": "Sports" },
+                  "genre": { "id": "KnvZfZ7vAde", "name": "Basketball" },
+                  "subGenre": { "id": "KZazBEonSMnZfZ7vFJA", "name": "NBA" },
+                  "type": { "id": "KZAyXgnZfZ7v7l1", "name": "Group" },
+                  "subType": { "id": "KZFzBErXgnZfZ7vA7d", "name": "Team" },
+                  "family": false
+                }
+              ],
+              "upcomingEvents": {
+                "_total": 4,
+                "ticketmaster": 4,
+                "_filtered": 0
+              },
+              "_links": {
+                "self": {
+                  "href": "/discovery/v2/attractions/K8vZ9171oZf?locale=en-us"
+                }
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "_links": {
+    "first": {
+      "href": "/discovery/v2/events.json?countryCode=US&page=0&size=1"
+    },
+    "self": { "href": "/discovery/v2/events.json?size=1&countryCode=US" },
+    "next": {
+      "href": "/discovery/v2/events.json?countryCode=US&page=1&size=1"
+    },
+    "last": {
+      "href": "/discovery/v2/events.json?countryCode=US&page=114565&size=1"
+    }
+  },
+  "page": {
+    "size": 1,
+    "totalElements": 114566,
+    "totalPages": 114566,
+    "number": 0
+  }
+}
